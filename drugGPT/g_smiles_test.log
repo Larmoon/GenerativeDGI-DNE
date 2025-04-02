@@ -1,0 +1,15 @@
+2025-03-29 22:12:55,026 - INFO - Loading model and tokenizer: alimotahharynia/DrugGen
+2025-03-29 22:13:15,027 - ERROR - Error loading model and tokenizer: ('Connection broken: IncompleteRead(1196032 bytes read, 114420 more expected)', IncompleteRead(1196032 bytes read, 114420 more expected))
+2025-03-29 22:13:23,909 - INFO - Loading model and tokenizer: alimotahharynia/DrugGen
+2025-03-29 22:14:25,936 - ERROR - Error loading model and tokenizer: expected str, bytes or os.PathLike object, not NoneType
+2025-03-29 22:14:33,775 - INFO - Loading model and tokenizer: alimotahharynia/DrugGen
+2025-03-29 22:17:38,142 - INFO - Loading model and tokenizer: ./druggen
+2025-03-29 22:17:38,312 - INFO - Moving model to CUDA device.
+2025-03-29 22:17:58,764 - INFO - Starting SMILES generation process...
+2025-03-29 22:17:58,781 - INFO - Generating SMILES for sequence: MGAASGRRGP...
+2025-03-29 22:18:00,958 - INFO - SMILES generation for sequence completed. Generated 16 SMILES.
+2025-03-29 22:18:00,960 - INFO - Generating SMILES for sequence: MGAASGRRGP...
+2025-03-29 22:18:03,011 - INFO - SMILES generation for sequence completed. Generated 11 SMILES.
+2025-03-29 22:18:03,012 - INFO - Generating SMILES for sequence: MGETLGDSPI...
+2025-03-29 22:18:05,325 - INFO - SMILES generation for sequence completed. Generated 13 SMILES.
+2025-03-29 22:18:05,326 - INFO - Completed SMILES generation for 3 entries.

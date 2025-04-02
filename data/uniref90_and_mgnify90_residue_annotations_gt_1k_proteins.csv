@@ -1,0 +1,1639 @@
+,label,count,label_clean
+1,active site,13797865,active site
+2,dimer interface,8665659,dimer interface
+3,ATP binding site,7448589,atp binding site
+4,ACT_SITE: Proton acceptor.,5320682,act_site: proton acceptor
+5,METAL: Magnesium.,5301767,metal: magnesium
+6,BINDING: Substrate.,4306915,binding: substrate
+7,putative active site,3593063,active site
+8,BINDING: NAD.,3552442,binding: nad
+9,NP_BIND: ATP.,3040416,np_bind: atp
+10,homodimer interface,3021109,homodimer interface
+11,METAL: Calcium.,2884170,metal: calcium
+12,substrate binding site,2850358,substrate binding site
+13,NP_BIND: NAD.,2826270,np_bind: nad
+14,ACT_SITE: Proton donor.,2698376,act_site: proton donor
+15,MOD_RES: N6-(pyridoxal phosphate)lysine.,2538645,mod_res: n6 (pyridoxal phosphate)lysine
+16,ACT_SITE: Nucleophile.,2360495,act_site: nucleophile
+17,BINDING: ATP.,2344831,binding: atp
+18,metal binding site,2343204,metal binding site
+19,NP_BIND: NADP.,2080678,np_bind: nadp
+20,ABC transporter signature motif,2059447,abc transporter signature motif
+21,Walker B,2057552,walker b
+22,D-loop,2038600,d loop
+23,NP_BIND: GTP.,2034837,np_bind: gtp
+24,Q-loop/lid,2014302,q loop/lid
+25,DNA binding site,1973905,dna binding site
+26,H-loop/switch region,1926867,h loop/switch region
+27,Walker A/P-loop,1914985,walker a/p loop
+28,phosphorylation site,1891686,phosphorylation site
+29,BINDING: S-adenosyl-L-methionine.,1804905,binding: s adenosyl l methionine
+30,S-adenosylmethionine binding site,1792910,s adenosylmethionine binding site
+31,BINDING: NADP.,1764049,binding: nadp
+32,NP_BIND: FAD.,1710081,np_bind: fad
+33,catalytic residue,1708384,catalytic residue
+34,catalytic residues,1677169,catalytic residues
+35,ABC-ATPase subunit interface,1660192,abc atpase subunit interface
+36,BINDING: FAD.,1618591,binding: fad
+37,CROSSLNK: Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin).,1421549,crosslnk: glycyl lysine isopeptide (lys gly) (interchain with g cter in ubiquitin)
+38,Binds [4Fe-4S]-AdoMet cluster,1322540,binds [4fe 4s] adomet cluster
+39,catalytic site,1315701,catalytic site
+40,sequence-specific DNA binding site,1293774,sequence specific dna binding site
+41,Walker A motif,1200233,walker a motif
+42,salt bridge,1199024,salt bridge
+43,BINDING: ADP; via amide nitrogen.,1195168,binding: adp; via amide nitrogen
+44,Walker B motif,1178712,walker b motif
+45,trimer interface,1166785,trimer interface
+46,METAL: Magnesium; via carbonyl oxygen.,1153684,metal: magnesium; via carbonyl oxygen
+47,ATP-lid,1142605,atp lid
+48,dimerization interface,1141064,dimerization interface
+49,G3 box,1129158,g3 box
+50,Switch II region,1119910,switch ii region
+51,non-specific DNA binding site,1115750,non specific dna binding site
+52,G2 box,1113884,g2 box
+53,ligand binding site,1108687,ligand binding site
+54,BINDING: ADP.,1107531,binding: adp
+55,RNA binding site,1105888,rna binding site
+56,Switch I region,1103586,switch i region
+57,conserved gate region,1089626,conserved gate region
+58,DNA binding residues,1066679,dna binding residues
+59,METAL: Zinc; catalytic.,1066012,metal: zinc; catalytic
+60,REGION: Substrate binding.,1058618,region: substrate binding
+61,G1 box,1049569,g1 box
+62,G4 box,1043940,g4 box
+63,hexamer interface,1001398,hexamer interface
+64,BINDING: NAD; via amide nitrogen.,1000778,binding: nad; via amide nitrogen
+65,METAL: Zinc.,987065,metal: zinc
+66,putative PBP binding loops,972746,pbp binding loops
+67,G5 box,961082,g5 box
+68,pyridoxal 5'-phosphate binding site,948813,pyridoxal 5' phosphate binding site
+69,arginine finger,938333,arginine finger
+70,METAL: Iron-sulfur 2 (4Fe-4S).,936435,metal: iron sulfur 2 (4fe 4s)
+71,BINDING: ADP; via carbonyl oxygen.,923799,binding: adp; via carbonyl oxygen
+72,GTP/Mg2+ binding site,915097,gtp/mg2+ binding site
+73,DISULFID: Redox-active.,860948,disulfid: redox active
+74,BINDING: Substrate; via amide nitrogen.,847411,binding: substrate; via amide nitrogen
+75,METAL: Iron-sulfur (4Fe-4S-S-AdoMet).,823473,metal: iron sulfur (4fe 4s s adomet)
+76,catalytic triad,809002,catalytic triad
+77,NP_BIND: ADP.,795770,np_bind: adp
+78,Coenzyme A binding pocket,783942,coenzyme a binding pocket
+79,FeS/SAM binding site,778987,fes/sam binding site
+80,heterodimer interface,774850,heterodimer interface
+81,METAL: Iron-sulfur 3 (4Fe-4S).,758791,metal: iron sulfur 3 (4fe 4s)
+82,METAL: Divalent metal cation.,740353,metal: divalent metal cation
+83,BINDING: NAD; via carbonyl oxygen.,730235,binding: nad; via carbonyl oxygen
+84,heme pocket,729308,heme pocket
+85,putative dimer interface,714751,dimer interface
+86,METAL: Iron-sulfur 1 (4Fe-4S).,694129,metal: iron sulfur 1 (4fe 4s)
+87,METAL: Iron (heme axial ligand).,684912,metal: iron (heme axial ligand)
+88,NAD(P) binding site,684323,nad(p) binding site
+89,oligomer interface,678396,oligomer interface
+90,REGION: S-adenosyl-L-methionine binding.,673483,region: s adenosyl l methionine binding
+91,BINDING: S-adenosyl-L-methionine; via carbonyl oxygen.,660217,binding: s adenosyl l methionine; via carbonyl oxygen
+92,METAL: Zinc 2.,632856,metal: zinc 2
+93,METAL: Zinc 1; via tele nitrogen.,615210,metal: zinc 1; via tele nitrogen
+94,Mg2+ binding site,614867,mg2+ binding site
+95,BINDING: GTP; via amide nitrogen.,612136,binding: gtp; via amide nitrogen
+96,METAL: Manganese 2.,610050,metal: manganese 2
+97,tetramer interface,572913,tetramer interface
+98,putative metal binding site,561433,metal binding site
+99,polypeptide substrate binding site,558235,polypeptide substrate binding site
+100,TPP binding site,544789,tpp binding site
+101,METAL: Zinc 1.,542489,metal: zinc 1
+102,putative substrate binding site,529108,substrate binding site
+103,Zn binding site,523379,zn binding site
+104,ACT_SITE: O-(3'-phospho-DNA)-tyrosine intermediate.,522231,act_site: o (3' phospho dna) tyrosine intermediate
+105,BINDING: Heme; covalent.,512922,binding: heme; covalent
+106,anticodon binding site,511235,anticodon binding site
+107,ACT_SITE: Charge relay system.,502064,act_site: charge relay system
+108,putative DNA binding site,499512,dna binding site
+109,PYR/PP interface,492759,pyr/pp interface
+110,METAL: Manganese 1.,489822,metal: manganese 1
+111,TM-ABC transporter signature motif,485894,tm abc transporter signature motif
+112,motif 2,485020,motif 2
+113,METAL: Iron-sulfur 1 (3Fe-4S).,479270,metal: iron sulfur 1 (3fe 4s)
+114,BINDING: Substrate; via carbonyl oxygen.,470401,binding: substrate; via carbonyl oxygen
+115,BINDING: S-adenosyl-L-methionine 2.,466078,binding: s adenosyl l methionine 2
+116,I-site,454789,i site
+117,motif 1,454131,motif 1
+118,nucleotide binding site,453634,nucleotide binding site
+119,METAL: Zinc 1; via tele nitrogen; catalytic.,450841,metal: zinc 1; via tele nitrogen; catalytic
+120,Ligand Binding Site,439637,ligand binding site
+121,RNA binding surface,434762,rna binding surface
+122,motif 3,431678,motif 3
+123,METAL: Manganese.,427447,metal: manganese
+124,BINDING: FAD; via amide nitrogen and carbonyl oxygen.,417575,binding: fad; via amide nitrogen and carbonyl oxygen
+125,TPP-binding site,414011,tpp binding site
+126,METAL: Magnesium or manganese 1.,412067,metal: magnesium or manganese 1
+127,BINDING: ATP; via carbonyl oxygen.,410884,binding: atp; via carbonyl oxygen
+128,ACT_SITE: Acyl-ester intermediate.,406616,act_site: acyl ester intermediate
+129,METAL: Magnesium or manganese 2.,405448,metal: magnesium or manganese 2
+130,substrate binding pocket,403612,substrate binding pocket
+131,NP_BIND: NAD or NADP.,400917,np_bind: nad or nadp
+132,MOD_RES: N-methylphenylalanine.,397258,mod_res: n methylphenylalanine
+133,SAM binding site,396818,sam binding site
+134,SITE: Transition state stabilizer.,392816,site: transition state stabilizer
+135,chemical substrate binding site,384596,chemical substrate binding site
+136,Zn2+ binding site,378702,zn2+ binding site
+137,BINDING: FAD; via amide nitrogen.,374848,binding: fad; via amide nitrogen
+138,SITE: Important for catalytic activity.,374774,site: important for catalytic activity
+139,DNA-binding site,371772,dna binding site
+140,BINDING: S-adenosyl-L-methionine; via amide nitrogen.,370732,binding: s adenosyl l methionine; via amide nitrogen
+141,activation loop (A-loop),369701,activation loop (a loop)
+142,putative ATP binding site,368825,atp binding site
+143,NTP binding site,361859,ntp binding site
+144,putative GEF interaction site,361808,gef interaction site
+145,FMN binding site,347914,fmn binding site
+146,NAD binding site,346655,nad binding site
+147,HIGH motif,332127,high motif
+148,Ligand binding site,326895,ligand binding site
+149,ACT_SITE: Proton donor/acceptor.,325261,act_site: proton donor/acceptor
+150,NP_BIND: FMN.,316831,np_bind: fmn
+151,KMSKS motif,313825,kmsks motif
+152,tRNA binding surface,312095,trna binding surface
+153,DXD motif,311901,dxd motif
+154,oxyanion hole (OAH) forming residues,311717,oxyanion hole (oah) forming residues
+155,BINDING: S-adenosyl-L-methionine 2; via carbonyl oxygen.,310981,binding: s adenosyl l methionine 2; via carbonyl oxygen
+156,protein binding site,309381,protein binding site
+157,BINDING: Heme 2; covalent.,309307,binding: heme 2; covalent
+158,HSP70 interaction site,304366,hsp70 interaction site
+159,METAL: Magnesium 1.,300081,metal: magnesium 1
+160,BINDING: Heme 1; covalent.,300039,binding: heme 1; covalent
+161,BINDING: S-adenosyl-L-methionine; via amide nitrogen and carbonyl oxygen.,298606,binding: s adenosyl l methionine; via amide nitrogen and carbonyl oxygen
+162,SITE: Lowers pKa of active site Tyr.,294541,site: lowers pka of active site tyr
+163,Mg2+ ligand,293890,mg2+ ligand
+164,METAL: Iron (heme 1 axial ligand).,293587,metal: iron (heme 1 axial ligand)
+165,BINDING: Heme C 2; covalent.,292762,binding: heme c 2; covalent
+166,MOD_RES: 3-oxoalanine (Cys).,291528,mod_res: 3 oxoalanine (cys)
+167,BINDING: Pyridoxal phosphate.,288150,binding: pyridoxal phosphate
+168,23S rRNA interface,286209,23s rrna interface
+169,ssDNA binding site,284429,ssdna binding site
+170,BINDING: Glutamine.,283543,binding: glutamine
+171,BINDING: FMN.,280559,binding: fmn
+172,ACT_SITE: O-(5'-phospho-DNA)-serine intermediate.,277926,act_site: o (5' phospho dna) serine intermediate
+173,ACT_SITE: Phosphoserine intermediate.,277672,act_site: phosphoserine intermediate
+174,putative nucleic acid binding site,277313,nucleic acid binding site
+175,METAL: Magnesium 2.,276551,metal: magnesium 2
+176,METAL: Iron (heme 2 axial ligand).,272720,metal: iron (heme 2 axial ligand)
+177,iron binding site,272056,iron binding site
+178,nudix motif,271463,nudix motif
+179,inhibitor-cofactor binding pocket,270449,inhibitor cofactor binding pocket
+180,tRNA binding site,268269,trna binding site
+181,lipid binding site,266926,lipid binding site
+182,catalytic motif,266830,catalytic motif
+183,putative chemical substrate binding pocket,266197,chemical substrate binding pocket
+184,putative metal-binding site,266091,metal binding site
+185,BINDING: ATP; via amide nitrogen.,263617,binding: atp; via amide nitrogen
+186,lipoyl attachment site,262625,lipoyl attachment site
+187,Cytokine receptor motif,262336,cytokine receptor motif
+188,metal binding triad,261412,metal binding triad
+189,catalytic nucleophile,255655,catalytic nucleophile
+190,ACT_SITE: Cysteine sulfenic acid (-SOH) intermediate.,254214,act_site: cysteine sulfenic acid ( soh) intermediate
+191,METAL: Iron.,249713,metal: iron
+192,Catalytic site,248380,catalytic site
+193,metal-binding site,247745,metal binding site
+194,putative ligand binding site,247538,ligand binding site
+195,interdomain interaction site,244976,interdomain interaction site
+196,active site residue,242221,active site residue
+197,Putative Catalytic site,241481,catalytic site
+198,putative ligand binding site I,241392,ligand binding site i
+199,ligand binding site II,241007,ligand binding site ii
+200,Mg binding site,237514,mg binding site
+201,METAL: Zinc; via tele nitrogen.,236717,metal: zinc; via tele nitrogen
+202,CoA binding site,229305,coa binding site
+203,Hpt domain binding site,228406,hpt domain binding site
+204,NADP binding site,227830,nadp binding site
+205,SITE: Essential for catalytic activity.,226800,site: essential for catalytic activity
+206,generic binding surface I,225869,generic binding surface i
+207,homotetramer interface,225410,homotetramer interface
+208,"Mg2+ ligand, nucleophile: attacks phosphate moiety of intermediate to form covalent intermediate",222564,"mg2+ ligand, nucleophile: attacks phosphate moiety of intermediate to form covalent intermediate"
+209,METAL: Zinc 1; catalytic.,221403,metal: zinc 1; catalytic
+210,METAL: Iron 2.,217316,metal: iron 2
+211,active site residues,216637,active site residues
+212,METAL: Divalent metal cation 1.,215860,metal: divalent metal cation 1
+213,Active site,215638,active site
+214,METAL: Iron 1.,214780,metal: iron 1
+215,flexible hinge region,214512,flexible hinge region
+216,MOD_RES: N6-lipoyllysine.,214439,mod_res: n6 lipoyllysine
+217,METAL: Iron-sulfur (4Fe-4S).,210945,metal: iron sulfur (4fe 4s)
+218,METAL: Magnesium; via phosphate group.,210581,metal: magnesium; via phosphate group
+219,METAL: Iron-sulfur (2Fe-2S).,208717,metal: iron sulfur (2fe 2s)
+220,[2Fe-2S] cluster binding site,207267,[2fe 2s] cluster binding site
+221,ACT_SITE: For GATase activity,206570,act_site: for gatase activity
+222,putative acyl-acceptor binding pocket,205579,acyl acceptor binding pocket
+223,MOD_RES: N6-carboxylysine.,205422,mod_res: n6 carboxylysine
+224,coordinates with phosphate oxygen from ATP,204960,coordinates with phosphate oxygen from atp
+225,conserved in all p-type atpases,204960,conserved in all p type atpases
+226,probable role in phosphate transfer from ATP,204960,probable role in phosphate transfer from atp
+227,stabilizes transition state of phosphoryl transfer by contacting beta & gamma phosphate oxygens of ATP,204960,stabilizes transition state of phosphoryl transfer by contacting beta & gamma phosphate oxygens of atp
+228,"nucleophile: attacks gamma phosphate moiety of ATP to form covalent intermediate, Mg2+ ligand",204960,"nucleophile: attacks gamma phosphate moiety of atp to form covalent intermediate, mg2+ ligand"
+229,E3 interaction surface,203887,e3 interaction surface
+230,METAL: Divalent metal cation 2.,203121,metal: divalent metal cation 2
+231,helix-hairpin-helix signature motif,201638,helix hairpin helix signature motif
+232,METAL: Calcium 1.,201485,metal: calcium 1
+233,catalytic loop,201075,catalytic loop
+234,BINDING: S-adenosyl-L-methionine 1; via amide nitrogen and carbonyl oxygen.,200194,binding: s adenosyl l methionine 1; via amide nitrogen and carbonyl oxygen
+235,METAL: Zinc 2; catalytic.,200011,metal: zinc 2; catalytic
+236,biotinylation site,199704,biotinylation site
+237,BINDING: S-adenosyl-L-methionine 1.,195402,binding: s adenosyl l methionine 1
+238,BINDING: Heme c; covalent.,192642,binding: heme c; covalent
+239,RNA/DNA hybrid binding site,192351,rna/dna hybrid binding site
+240,METAL: Iron (heme axial ligand); via tele nitrogen.,192197,metal: iron (heme axial ligand); via tele nitrogen
+241,carboxyltransferase (CT) interaction site,190694,carboxyltransferase (ct) interaction site
+242,LIPID: S-diacylglycerol cysteine.,190049,lipid: s diacylglycerol cysteine
+243,GIY-YIG motif/motif A,188728,giy yig motif/motif a
+244,BINDING: Substrate; via amide nitrogen and carbonyl oxygen.,186595,binding: substrate; via amide nitrogen and carbonyl oxygen
+245,putative NTP binding site,185620,ntp binding site
+246,putative catalytic residues,183538,catalytic residues
+247,METAL: Molybdenum; via amide nitrogen.,181524,metal: molybdenum; via amide nitrogen
+248,zinc binding site,181116,zinc binding site
+249,phosphate binding site,180041,phosphate binding site
+250,putative catalytic residue,179876,catalytic residue
+251,putative RNA binding site,177566,rna binding site
+252,16S rRNA binding site,176138,16s rrna binding site
+253,METAL: Potassium ion; via carbonyl oxygen.,174196,metal: potassium ion; via carbonyl oxygen
+254,tetramer (dimer of dimers) interface,173625,tetramer (dimer of dimers) interface
+255,domain linker motif,173050,domain linker motif
+256,minor groove reading motif,172645,minor groove reading motif
+257,BINDING: ATP; via amide nitrogen and carbonyl oxygen.,171490,binding: atp; via amide nitrogen and carbonyl oxygen
+258,putative NAD(P) binding site,169440,nad(p) binding site
+259,MOD_RES: Phosphohistidine; by autocatalysis.,169065,mod_res: phosphohistidine; by autocatalysis
+260,phosphopeptide binding site,167994,phosphopeptide binding site
+261,5S rRNA interface,165995,5s rrna interface
+262,generic binding surface II,164111,generic binding surface ii
+263,nucleic acid binding site,162725,nucleic acid binding site
+264,BINDING: Heme C 1; covalent.,162668,binding: heme c 1; covalent
+265,NAD binding pocket,162131,nad binding pocket
+266,antibiotic binding site,160804,antibiotic binding site
+267,LIPID: N-palmitoyl cysteine.,159865,lipid: n palmitoyl cysteine
+268,METAL: Iron-sulfur 1 (4Fe-4S-S-AdoMet).,157459,metal: iron sulfur 1 (4fe 4s s adomet)
+269,BINDING: cAMP 2.,157241,binding: camp 2
+270,Fe-S cluster binding site,155985,fe s cluster binding site
+271,METAL: Molybdenum.,155983,metal: molybdenum
+272,homotrimer interaction site,155821,homotrimer interaction site
+273,ligand binding site I,153875,ligand binding site i
+274,metal ion-dependent adhesion site (MIDAS),151848,metal ion dependent adhesion site (midas)
+275,putative Zn2+ binding site,148677,zn2+ binding site
+276,putative tRNA-binding site,148427,trna binding site
+277,METAL: Potassium; via carbonyl oxygen.,146913,metal: potassium; via carbonyl oxygen
+278,Binds [4Fe-4S] cluster,145503,binds [4fe 4s] cluster
+279,N-terminal domain interface,144448,n terminal domain interface
+280,METAL: Zinc; via tele nitrogen; catalytic.,144092,metal: zinc; via tele nitrogen; catalytic
+281,putative rRNA binding site,143786,rrna binding site
+282,regulatory phosphorylation site,143676,regulatory phosphorylation site
+283,Mg++ binding site,143533,mg++ binding site
+284,putative homodimer interface,142262,homodimer interface
+285,putative CoA binding site,141622,coa binding site
+286,pyridoxal 5'-phosphate (PLP) binding site,141071,pyridoxal 5' phosphate (plp) binding site
+287,putative catalytic site,140986,catalytic site
+288,METAL: Molybdenum; via carbonyl oxygen.,138338,metal: molybdenum; via carbonyl oxygen
+289,ACT_SITE: Tele-phosphohistidine intermediate.,137400,act_site: tele phosphohistidine intermediate
+290,catalytic tetrad,134839,catalytic tetrad
+291,rRNA binding site,134718,rrna binding site
+292,substrate-cofactor binding pocket,134567,substrate cofactor binding pocket
+293,metal binding ligand,134460,metal binding ligand
+294,REGION: S-adenosyl-L-methionine 2 binding.,131607,region: s adenosyl l methionine 2 binding
+295,METAL: Cobalt (cobalamin axial ligand).,129829,metal: cobalt (cobalamin axial ligand)
+296,REGION: Pyridoxal phosphate binding.,129616,region: pyridoxal phosphate binding
+297,putative chemical substrate binding site,129287,chemical substrate binding site
+298,METAL: Iron-sulfur 2.,128182,metal: iron sulfur 2
+299,BINDING: Cobalamin.,128020,binding: cobalamin
+300,putative nucleotide binding site,127209,nucleotide binding site
+301,METAL: Iron-sulfur 1.,127043,metal: iron sulfur 1
+302,Ca2+ binding site,126576,ca2+ binding site
+303,METAL: Copper.,125979,metal: copper
+304,METAL: Molybdate.,124735,metal: molybdate
+305,ACT_SITE: Acyl-thioester intermediate.,124015,act_site: acyl thioester intermediate
+306,gamma subunit interface,122625,gamma subunit interface
+307,S8 interaction site,121040,s8 interaction site
+308,intersubunit interface,120737,intersubunit interface
+309,METAL: Metal cation.,120610,metal: metal cation
+310,synthetase active site,120101,synthetase active site
+311,anchoring element,120067,anchoring element
+312,Catalytic dyad,118009,catalytic dyad
+313,ACT_SITE: For beta-ketoacyl synthase activity.,117031,act_site: for beta ketoacyl synthase activity
+314,putative catalytic motif,116830,catalytic motif
+315,phosphate binding motif,116744,phosphate binding motif
+316,putative anticodon binding site,116580,anticodon binding site
+317,acyl-activating enzyme (AAE) consensus motif,115366,acyl activating enzyme (aae) consensus motif
+318,cohesin binding interface 1,115319,cohesin binding interface 1
+319,beta-alpha-beta structure motif,114816,beta alpha beta structure motif
+320,ACT_SITE: Thioimidate intermediate.,114499,act_site: thioimidate intermediate
+321,Interdomain contacts,114399,interdomain contacts
+322,helical arch,112921,helical arch
+323,putative TRD-CR/TRD-CR interface,112267,trd cr/trd cr interface
+324,MOTIF: Nudix box.,112161,motif: nudix box
+325,C-terminal domain interface,111029,c terminal domain interface
+326,catalytic core,110494,catalytic core
+327,FAD binding site,108733,fad binding site
+328,CoenzymeA binding site,108592,coenzymea binding site
+329,SITE: Activates thiol group during catalysis.,108501,site: activates thiol group during catalysis
+330,PHB binding site,107883,phb binding site
+331,nucleotidyl binding site,107543,nucleotidyl binding site
+332,L27 interface,107512,l27 interface
+333,METAL: Magnesium or manganese.,106930,metal: magnesium or manganese
+334,aspartate-rich region 2,106734,aspartate rich region 2
+335,FAD binding pocket,104341,fad binding pocket
+336,L25 interface,104017,l25 interface
+337,METAL: Zinc 2; via tele nitrogen.,103575,metal: zinc 2; via tele nitrogen
+338,BINDING: Pyrroloquinoline quinone.,102962,binding: pyrroloquinoline quinone
+339,SITE: Important for beta-aspartyl-AMP intermediate formation.,102931,site: important for beta aspartyl amp intermediate formation
+340,aspartate-rich region 1,102569,aspartate rich region 1
+341,oxyanion hole,102440,oxyanion hole
+342,alpha subunit interface,101882,alpha subunit interface
+343,subunit interaction site,101821,subunit interaction site
+344,cohesin binding interface 2,101618,cohesin binding interface 2
+345,putative phosphate binding site,101457,phosphate binding site
+346,FAD binding motif,100654,fad binding motif
+347,domain interface,99679,domain interface
+348,Substrate binding site,98840,substrate binding site
+349,BINDING: FMN; shared with dimeric partner.,98385,binding: fmn; shared with dimeric partner
+350,nucleotide binding pocket,98292,nucleotide binding pocket
+351,METAL: Iron-sulfur (3Fe-4S).,95902,metal: iron sulfur (3fe 4s)
+352,METAL: Iron (heme 2 axial ligand); via tele nitrogen.,95801,metal: iron (heme 2 axial ligand); via tele nitrogen
+353,active site lid residues,95316,active site lid residues
+354,active site pocket,95230,active site pocket
+355,SITE: Important for catalysis.,95213,site: important for catalysis
+356,putative binding surface,95198,binding surface
+357,domain III,93721,domain iii
+358,substrate-Mg2+ binding site,93650,substrate mg2+ binding site
+359,METAL: Calcium 2.,93311,metal: calcium 2
+360,heme binding site,93097,heme binding site
+361,Molecular Tunnel,92276,molecular tunnel
+362,ACT_SITE: For GATase activity.,92070,act_site: for gatase activity
+363,sugar binding site,91724,sugar binding site
+364,mobile loop,91170,mobile loop
+365,SITE: Participates in a stacking interaction with the thymidine ring of dTDP-4-oxo-6-deoxyglucose.,90226,site: participates in a stacking interaction with the thymidine ring of dtdp 4 oxo 6 deoxyglucose
+366,ABC-ATPase subunit  interface,89656,abc atpase subunit interface
+367,Presynaptic Site I dimer interface,89070,presynaptic site i dimer interface
+368,METAL: Iron-sulfur 2 (2Fe-2S).,88917,metal: iron sulfur 2 (2fe 2s)
+369,domain II,88321,domain ii
+370,23S rRNA binding site,88283,23s rrna binding site
+371,peptide binding site,88153,peptide binding site
+372,Synaptic Antiparallel dimer interface,87522,synaptic antiparallel dimer interface
+373,putative ligand binding site II,87459,ligand binding site ii
+374,Synaptic Flat tetramer interface,87389,synaptic flat tetramer interface
+375,putative cosubstrate binding site,87149,cosubstrate binding site
+376,Probable Catalytic site,87133,probable catalytic site
+377,putative laminin-1 binding site,86851,laminin 1 binding site
+378,Synaptic Site I dimer interface,86531,synaptic site i dimer interface
+379,(T/H)XGH motif,86451,(t/h)xgh motif
+380,REGION: Cobalamin-binding.,86140,region: cobalamin binding
+381,conserved cys residue,86051,conserved cys residue
+382,putative EF-Tu interaction site,85322,ef tu interaction site
+383,putative EF-G interaction site,85023,ef g interaction site
+384,L11 interface,84958,l11 interface
+385,BINDING: Glyceraldehyde 3-phosphate.,84938,binding: glyceraldehyde 3 phosphate
+386,multimer interface,84747,multimer interface
+387,BINDING: NADP; via amide nitrogen and carbonyl oxygen.,84082,binding: nadp; via amide nitrogen and carbonyl oxygen
+388,nucleoside/Zn binding site,83764,nucleoside/zn binding site
+389,putative MPT binding site,83677,mpt binding site
+390,chain length determination region,83485,chain length determination region
+391,DnaA box-binding interface,83400,dnaa box binding interface
+392,SITE: Raises pKa of active site His.,83177,site: raises pka of active site his
+393,putative SAM binding site,82831,sam binding site
+394,folate binding site,82336,folate binding site
+395,domain IV,82273,domain iv
+396,AMP binding site,82044,amp binding site
+397,METAL: Calcium 1; via carbonyl oxygen.,82039,metal: calcium 1; via carbonyl oxygen
+398,roof hairpin,81512,roof hairpin
+399,ligand-binding site,81412,ligand binding site
+400,ADP binding site,81221,adp binding site
+401,METAL: Zinc; via pros nitrogen.,80822,metal: zinc; via pros nitrogen
+402,"Mg2+ ligand, nucleophile: attacks phosphate moiety of substrate to form covalent intermediate",80817,"mg2+ ligand, nucleophile: attacks phosphate moiety of substrate to form covalent intermediate"
+403,putative PBP binding regions,80455,pbp binding regions
+404,GSH binding site (G-site),79777,gsh binding site (g site)
+405,SulA interaction site,79764,sula interaction site
+406,GTP binding site,79756,gtp binding site
+407,Hsp70 (ATPase domain) interactions,79502,hsp70 (atpase domain) interactions
+408,domain I,79049,domain i
+409,RNA-binding motif,78860,rna binding motif
+410,ATP-binding site,78790,atp binding site
+411,putative DNA binding helix,78221,dna binding helix
+412,ACT_SITE: 5-glutamyl coenzyme A thioester intermediate.,77148,act_site: 5 glutamyl coenzyme a thioester intermediate
+413,epsilon subunit interface,77137,epsilon subunit interface
+414,B12 binding site,76482,b12 binding site
+415,ZN_FING: CHC2-type.,75356,zn_fing: chc2 type
+416,CAP-like domain,75229,cap like domain
+417,cobalt ligand,74790,cobalt ligand
+418,putative deacylase active site,74787,deacylase active site
+419,putative active site pocket,74280,active site pocket
+420,putative trimer interface,74182,trimer interface
+421,REGION: Glyceraldehyde 3-phosphate binding.,74145,region: glyceraldehyde 3 phosphate binding
+422,METAL: Magnesium,74087,metal: magnesium
+423,"SITE: Important for catalytic activity, responsible for pKa modulation of the active site Glu and correct orientation of both the proton donor and substrate.",73272,"site: important for catalytic activity, responsible for pka modulation of the active site glu and correct orientation of both the proton donor and substrate"
+424,hinge regions,73167,hinge regions
+425,AMP-binding site,73047,amp binding site
+426,Zinc-binding site,72898,zinc binding site
+427,putative ADP-binding pocket,72869,adp binding pocket
+428,ACT_SITE: Phosphocysteine intermediate.,72751,act_site: phosphocysteine intermediate
+429,DNA binding groove,72502,dna binding groove
+430,The sites determining sugar specificity,72369,the sites determining sugar specificity
+431,L5 interface,72188,l5 interface
+432,BINDING: Heme 3; covalent.,72166,binding: heme 3; covalent
+433,inhibitor binding site,71998,inhibitor binding site
+434,S12 interface,71370,s12 interface
+435,anti sigma factor interaction site,71144,anti sigma factor interaction site
+436,putative substrate binding region,70390,substrate binding region
+437,putative shikimate binding site,70184,shikimate binding site
+438,putative hydrophobic ligand binding site,70176,hydrophobic ligand binding site
+439,3Fe-4S cluster binding site,69481,3fe 4s cluster binding site
+440,A component interface,69440,a component interface
+441,metal binding site 2,69439,metal binding site 2
+442,putative sugar binding site,69399,sugar binding site
+443,BINDING: Heme (covalent).,69381,binding: heme (covalent)
+444,magnesium binding site,69348,magnesium binding site
+445,Na binding site,69203,na binding site
+446,hinge,68952,hinge
+447,primary dimer interface,68787,primary dimer interface
+448,tetrahydrofolate-binding site,68494,tetrahydrofolate binding site
+449,L10 interface,67843,l10 interface
+450,hinge region,67411,hinge region
+451,abstracts alpha proton (base),67021,abstracts alpha proton (base)
+452,ACT_SITE: GMP-histidine intermediate.,66878,act_site: gmp histidine intermediate
+453,rRNA interaction site,66709,rrna interaction site
+454,MPN+ (JAMM) motif,66687,mpn+ (jamm) motif
+455,ADP-ribose binding site,66511,adp ribose binding site
+456,METAL: Iron (heme 3 axial ligand); via tele nitrogen.,66026,metal: iron (heme 3 axial ligand); via tele nitrogen
+457,CMP-binding site,65877,cmp binding site
+458,SBD interface,65556,sbd interface
+459,ATP-AMP (Ap5A)-binding site,65039,atp amp (ap5a) binding site
+460,core dimer interface,64247,core dimer interface
+461,glutaminase active site,64176,glutaminase active site
+462,homohexameric interface,63984,homohexameric interface
+463,METAL: Iron-sulfur (2Fe-2S); shared with dimeric partner.,63140,metal: iron sulfur (2fe 2s); shared with dimeric partner
+464,GEF interaction site,62819,gef interaction site
+465,SITE: Essential for prephenate dehydratase activity.,62777,site: essential for prephenate dehydratase activity
+466,Metal ligand,62618,metal ligand
+467,METAL: Divalent metal cation; via tele nitrogen.,62588,metal: divalent metal cation; via tele nitrogen
+468,CoA-binding site,62437,coa binding site
+469,L16 interface,62206,l16 interface
+470,L3 interface,61711,l3 interface
+471,G-X2-G-X-G-K,61656,g x2 g x g k
+472,peripheral dimer interface,61608,peripheral dimer interface
+473,oligomerisation interface,61429,oligomerisation interface
+474,Catalytic residue,61318,catalytic residue
+475,metal binding site 1,60522,metal binding site 1
+476,RNase E interface,60040,rnase e interface
+477,Zn binding residues,59841,zn binding residues
+478,active sites,59689,active sites
+479,A' component interface,59648,a' component interface
+480,RPB12 interaction site,59561,rpb12 interaction site
+481,LBP interface,59251,lbp interface
+482,METAL: Magnesium 2; catalytic.,59240,metal: magnesium 2; catalytic
+483,putative oxyanion hole,58975,oxyanion hole
+484,amidase catalytic site,58954,amidase catalytic site
+485,putative CheW interface,58804,chew interface
+486,nucleic acid substrate binding site,58732,nucleic acid substrate binding site
+487,NeuB binding interface,58714,neub binding interface
+488,METAL: Magnesium 1; catalytic.,58705,metal: magnesium 1; catalytic
+489,BINDING: NAD 1.,58670,binding: nad 1
+490,CTC domain interface,58221,ctc domain interface
+491,active site turn,57936,active site turn
+492,oligonucleotide binding site,57792,oligonucleotide binding site
+493,BINDING: NADP; via amide nitrogen.,57790,binding: nadp; via amide nitrogen
+494,BINDING: Heme 4; covalent.,57036,binding: heme 4; covalent
+495,putative interdomain interaction site,57014,interdomain interaction site
+496,TMP-binding site,56916,tmp binding site
+497,pyrophosphate binding site,56636,pyrophosphate binding site
+498,tandem repeat interface,56371,tandem repeat interface
+499,ATP Binding subdomain,56311,atp binding subdomain
+500,candidate oxyanion hole,56305,candidate oxyanion hole
+501,NodB motif,55948,nodb motif
+502,chemical substrate binding pocket,55895,chemical substrate binding pocket
+503,putative antibiotic binding site,55734,antibiotic binding site
+504,P-loop,55554,p loop
+505,cosubstrate binding site,55458,cosubstrate binding site
+506,thioester formation/cholesterol transfer,55223,thioester formation/cholesterol transfer
+507,dimerization interface 3.5A,55031,dimerization interface 35a
+508,N-terminal plug,54952,n terminal plug
+509,conserved cis-peptide bond,54949,conserved cis peptide bond
+510,ATP binding pocket,54825,atp binding pocket
+511,RPB3 interaction site,54798,rpb3 interaction site
+512,active-site loop,54612,active site loop
+513,METAL: Molybdate; via amide nitrogen.,54360,metal: molybdate; via amide nitrogen
+514,Interface with L7/L12 ribosomal proteins,54183,interface with l7/l12 ribosomal proteins
+515,L13 binding site,54164,l13 binding site
+516,potential glutamine specificity residues,53820,potential glutamine specificity residues
+517,beta subunit interface,53801,beta subunit interface
+518,putative catalytic cysteine,53619,catalytic cysteine
+519,SmpB-tmRNA interface,53525,smpb tmrna interface
+520,G-loop,53365,g loop
+521,stacking interactions,53356,stacking interactions
+522,putative nucleic acid substrate binding site,53299,nucleic acid substrate binding site
+523,K-X-D-G motif,53257,k x d g motif
+524,CDP-binding sites,53236,cdp binding sites
+525,CoA binding pocket,53180,coa binding pocket
+526,METAL: Divalent metal cation; via carbamate group.,53060,metal: divalent metal cation; via carbamate group
+527,NP_BIND: GMP.,52982,np_bind: gmp
+528,Dimerization subdomain,52575,dimerization subdomain
+529,16S/18S rRNA binding site,52554,16s/18s rrna binding site
+530,putative L-Phe binding site,52427,l phe binding site
+531,RPB10 interaction site,52415,rpb10 interaction site
+532,Ligand Binding sites,52407,ligand binding sites
+533,hydrophobic core,52291,hydrophobic core
+534,DEAD box helicase motif,52215,dead box helicase motif
+535,L7/L12 interface,52076,l7/l12 interface
+536,METAL: Iron (heme 4 axial ligand); via tele nitrogen.,52012,metal: iron (heme 4 axial ligand); via tele nitrogen
+537,RxxxH motif,51942,rxxxh motif
+538,alphaNTD - beta' interaction site,51909,alphantd beta' interaction site
+539,glutamase interaction surface,51903,glutamase interaction surface
+540,ACT_SITE: Phosphothreonine intermediate.,51885,act_site: phosphothreonine intermediate
+541,homohexamer interface,51626,homohexamer interface
+542,intramolecular domain interface,51475,intramolecular domain interface
+543,RPB11 interaction site,51419,rpb11 interaction site
+544,Ca binding site,51384,ca binding site
+545,putative thiostrepton binding site,51373,thiostrepton binding site
+546,phosphorylation loop region,51119,phosphorylation loop region
+547,AMP/PPi binding site,50973,amp/ppi binding site
+548,diiron binding motif,50717,diiron binding motif
+549,homotetrameric interface,50695,homotetrameric interface
+550,putative substrate binding pocket,50683,substrate binding pocket
+551,ACT_SITE: Schiff-base intermediate with acetaldehyde.,50553,act_site: schiff base intermediate with acetaldehyde
+552,active site lid,50523,active site lid
+553,putative GSH binding site (G-site),50042,gsh binding site (g site)
+554,S component interface,50011,s component interface
+555,IMP binding site,49945,imp binding site
+556,SITE: Lowers pKa of active site Cys.,49800,site: lowers pka of active site cys
+557,S18 interface,49719,s18 interface
+558,BINDING: Dihydroxyacetone phosphate; via amide nitrogen.,49703,binding: dihydroxyacetone phosphate; via amide nitrogen
+559,REGION: Dihydroxyacetone phosphate binding.,49703,region: dihydroxyacetone phosphate binding
+560,Na+ binding site,49656,na+ binding site
+561,putative substrate binding site 2,49649,substrate binding site 2
+562,L21 binding site,49413,l21 binding site
+563,NADP-binding site,49282,nadp binding site
+564,ACT_SITE: O-isoaspartyl threonine intermediate.,49236,act_site: o isoaspartyl threonine intermediate
+565,MOD_RES: O-AMP-tyrosine.,49113,mod_res: o amp tyrosine
+566,ACT_SITE: Schiff-base intermediate with D-ribose 5-phosphate.,49098,act_site: schiff base intermediate with d ribose 5 phosphate
+567,catalytic center binding site,48977,catalytic center binding site
+568,ACT_SITE: Pros-phosphohistidine intermediate.,48962,act_site: pros phosphohistidine intermediate
+569,pentamer interface,48815,pentamer interface
+570,BINDING: GTP; via carbonyl oxygen.,48680,binding: gtp; via carbonyl oxygen
+571,METAL: Iron (heme axial ligand); shared with second transmembrane subunit.,48670,metal: iron (heme axial ligand); shared with second transmembrane subunit
+572,putative NAD binding site,48557,nad binding site
+573,catalytic Zn binding site,48509,catalytic zn binding site
+574,BINDING: Coenzyme A; via amide nitrogen.,48416,binding: coenzyme a; via amide nitrogen
+575,homopentamer interface,48392,homopentamer interface
+576,MOD_RES: FMN phosphoryl threonine.,48337,mod_res: fmn phosphoryl threonine
+577,putative translocon binding site,48239,translocon binding site
+578,putative Cu binding site,48225,cu binding site
+579,putative DNA binding surface,48069,dna binding surface
+580,alphaNTD - beta interaction site,48009,alphantd beta interaction site
+581,N- and C-terminal domain interface,47742,n and c terminal domain interface
+582,S9 interface,47740,s9 interface
+583,BINDING: GTP.,47638,binding: gtp
+584,METAL: Iron (heme 1 axial ligand); via tele nitrogen.,47632,metal: iron (heme 1 axial ligand); via tele nitrogen
+585,shikimate binding site,47531,shikimate binding site
+586,BINDING: Alpha-ketoisovalerate.,47491,binding: alpha ketoisovalerate
+587,REGION: Alpha-ketoisovalerate binding.,47490,region: alpha ketoisovalerate binding
+588,TRD-CR/TRD-CR interface,47351,trd cr/trd cr interface
+589,BINDING: Spermidine.,47338,binding: spermidine
+590,ATP-binding,47243,atp binding
+591,putative peptide binding site,47212,peptide binding site
+592,METAL: Iron 1 (heme b562 axial ligand).,47083,metal: iron 1 (heme b562 axial ligand)
+593,partial ornithine binding site,47076,partial ornithine binding site
+594,putative substrate binding site 1,47062,substrate binding site 1
+595,mRNA/rRNA interface,46760,mrna/rrna interface
+596,structural Zn2+ binding site,46677,structural zn2+ binding site
+597,Metal ligand; Stabilizes partially closed conformation via electrostatic interaction with K330,46544,metal ligand; stabilizes partially closed conformation via electrostatic interaction with k330
+598,Hydrogen bonds to substrate diphosphate,46544,hydrogen bonds to substrate diphosphate
+599,Stabilizes fully closed conformation via electrostatic interaction with C-terminal carboxylate of IPP,46544,stabilizes fully closed conformation via electrostatic interaction with c terminal carboxylate of ipp
+600,Stabilizes partially closed conformation via electrostatic interactions with K330,46544,stabilizes partially closed conformation via electrostatic interactions with k330
+601,Metal ligand (via water),46544,metal ligand (via water)
+602,BINDING: Cobalamin; via carbonyl oxygen.,46511,binding: cobalamin; via carbonyl oxygen
+603,trigger factor interaction site,46507,trigger factor interaction site
+604,cofactor binding site,46442,cofactor binding site
+605,S13e-L30e interaction site,46406,s13e l30e interaction site
+606,SITE: Important for autoinhibition of adenylyltransferase activity.,46305,site: important for autoinhibition of adenylyltransferase activity
+607,METAL: Metal cation; via carbonyl oxygen.,46175,metal: metal cation; via carbonyl oxygen
+608,METAL: Iron 2 (heme b566 axial ligand).,46173,metal: iron 2 (heme b566 axial ligand)
+609,L23 interface,46150,l23 interface
+610,putative C-terminal domain interface,46100,c terminal domain interface
+611,METAL: Cobalt.,46062,metal: cobalt
+612,regulatory protein interface,45830,regulatory protein interface
+613,central domain interface,45812,central domain interface
+614,effector binding site,45510,effector binding site
+615,BINDING: FMN; via amide nitrogen and carbonyl oxygen.,45226,binding: fmn; via amide nitrogen and carbonyl oxygen
+616,glutamine binding,44967,glutamine binding
+617,purine monophosphate binding site,44878,purine monophosphate binding site
+618,putative valine binding site,44702,valine binding site
+619,ACT_SITE: Cysteine persulfide intermediate.,44688,act_site: cysteine persulfide intermediate
+620,cleavage site,44674,cleavage site
+621,Mg2+/Mn2+ binding site,44398,mg2+/mn2+ binding site
+622,signal recognition particle (SRP54) interaction site,44272,signal recognition particle (srp54) interaction site
+623,METAL: Zinc 2; via tele nitrogen; catalytic.,44258,metal: zinc 2; via tele nitrogen; catalytic
+624,beta-clamp/translesion DNA polymerase binding surface,44256,beta clamp/translesion dna polymerase binding surface
+625,uridine monophosphate binding site,44164,uridine monophosphate binding site
+626,oxyanion strand,44074,oxyanion strand
+627,trimerization site,43956,trimerization site
+628,putative oligomer interface,43907,oligomer interface
+629,Rpb1 (beta') - Rpb2 (beta) interaction site,43906,rpb1 (beta') rpb2 (beta) interaction site
+630,protein-rRNA interface,43848,protein rrna interface
+631,Iron coordination center,43752,iron coordination center
+632,RPB1 interaction site,43733,rpb1 interaction site
+633,METAL: Zinc; via tele nitrogen; shared with neighboring monomer.,43728,metal: zinc; via tele nitrogen; shared with neighboring monomer
+634,oligomerization interface,43687,oligomerization interface
+635,beta-clamp/clamp loader binding surface,43402,beta clamp/clamp loader binding surface
+636,protein interface 1,43354,protein interface 1
+637,S11 interface,43307,s11 interface
+638,putative allosteric regulatory site,43302,allosteric regulatory site
+639,Active Sites,43242,active sites
+640,SITE: Contributes to substrate recognition.,43036,site: contributes to substrate recognition
+641,SITE: Stabilizes the phosphoryl group.,43036,site: stabilizes the phosphoryl group
+642,subunit interface,43012,subunit interface
+643,ACT_SITE: Schiff-base intermediate with substrate.,42914,act_site: schiff base intermediate with substrate
+644,MOD_RES: O-UMP-tyrosine.,42890,mod_res: o ump tyrosine
+645,glycine-pyridoxal phosphate binding site,42878,glycine pyridoxal phosphate binding site
+646,UDP-GlcNAc binding site,42535,udp glcnac binding site
+647,product (indole) binding pocket,42497,product (indole) binding pocket
+648,METAL: Iron 3.,42495,metal: iron 3
+649,30S subunit binding site,42470,30s subunit binding site
+650,MgATP binding site,42455,mgatp binding site
+651,putative AMP binding site,42012,amp binding site
+652,inhibitor site,41767,inhibitor site
+653,ATP/Mg binding site,41735,atp/mg binding site
+654,NEF interaction site,41616,nef interaction site
+655,Cu(I) binding site,41410,cu(i) binding site
+656,putative translocon interaction site,41387,translocon interaction site
+657,putative functional site,41371,functional site
+658,BINDING: cAMP 1.,41203,binding: camp 1
+659,thiamine phosphate binding site,40893,thiamine phosphate binding site
+660,BINDING: Ubiquinone.,40788,binding: ubiquinone
+661,NADP+ binding site,40256,nadp+ binding site
+662,putative effector binding pocket,40124,effector binding pocket
+663,RodZ interaction site,40090,rodz interaction site
+664,structural Zn binding site,39776,structural zn binding site
+665,interdomain contacts,39752,interdomain contacts
+666,METAL: Zinc 2; via pros nitrogen.,39734,metal: zinc 2; via pros nitrogen
+667,25S rRNA binding site,39637,25s rrna binding site
+668,METAL: Nickel-iron-sulfur (Ni-4Fe-4S).,39548,metal: nickel iron sulfur (ni 4fe 4s)
+669,product binding site,39546,product binding site
+670,BINDING: Heme.,39341,binding: heme
+671,nucleophile elbow,39284,nucleophile elbow
+672,HIT family signature motif,39247,hit family signature motif
+673,CROSSLNK: Isoglutamyl lysine isopeptide (Lys-Gln) (interchain with Q-Cter in protein Pup).,39244,crosslnk: isoglutamyl lysine isopeptide (lys gln) (interchain with q cter in protein pup)
+674,REGION: PEP binding.,39235,region: pep binding
+675,BINDING: PEP.,39235,binding: pep
+676,SITE: Transition state stablizer.,39231,site: transition state stablizer
+677,"Mg2+ ligand, general acid: donates proton to leaving group, general base: activates water",38743,"mg2+ ligand, general acid: donates proton to leaving group, general base: activates water"
+678,zinc-binding site,38725,zinc binding site
+679,METAL: Magnesium 2; via carbonyl oxygen; catalytic.,38259,metal: magnesium 2; via carbonyl oxygen; catalytic
+680,PHP Thumb interface,38203,php thumb interface
+681,ring oligomerisation interface,38058,ring oligomerisation interface
+682,putative substrate binding pocket (H-site),37999,substrate binding pocket (h site)
+683,substrate (anthranilate) binding pocket,37997,substrate (anthranilate) binding pocket
+684,turnover-facilitating residue,37912,turnover facilitating residue
+685,8OG recognition residue,37903,8og recognition residue
+686,BINDING: Coenzyme A.,37876,binding: coenzyme a
+687,ribulose/triose binding site,37793,ribulose/triose binding site
+688,pyridoxal 5'-phosphate binding pocket,37677,pyridoxal 5' phosphate binding pocket
+689,General Acid/Base,37320,general acid/base
+690,metal binding ligand (2nd metal),37187,metal binding ligand (2nd metal)
+691,acid (promotes elimination of OH),37187,acid (promotes elimination of oh)
+692,SITE: Important for activity.,36897,site: important for activity
+693,ACT_SITE: AMP-threonine intermediate.,36896,act_site: amp threonine intermediate
+694,Active site flap,36786,active site flap
+695,delta subunit interface,36660,delta subunit interface
+696,molybdopterin cofactor binding site,36527,molybdopterin cofactor binding site
+697,Na binding site 1,36463,na binding site 1
+698,METAL: Calcium; via carbonyl oxygen.,36443,metal: calcium; via carbonyl oxygen
+699,Substrate-binding/catalytic site,36372,substrate binding/catalytic site
+700,"MOD_RES: 2,3-didehydroalanine (Ser).",36345,"mod_res: 2,3 didehydroalanine (ser)"
+701,substrate interface,36155,substrate interface
+702,SITE: Critical for catalysis.,36110,site: critical for catalysis
+703,Zn-binding sites,36032,zn binding sites
+704,aminoacyl-tRNA interaction site (A-site),36022,aminoacyl trna interaction site (a site)
+705,METAL: Iron (heme proximal ligand).,36008,metal: iron (heme proximal ligand)
+706,putative protofilament interaction site,35909,protofilament interaction site
+707,signature motif,35905,signature motif
+708,putative allosteric binding site,35480,allosteric binding site
+709,binuclear metal center,35471,binuclear metal center
+710,ACT_SITE: Proton acceptor; specific for (S)-substrate epimerization.,35337,act_site: proton acceptor; specific for (s) substrate epimerization
+711,ACT_SITE: Proton acceptor; specific for (R)-substrate epimerization.,35336,act_site: proton acceptor; specific for (r) substrate epimerization
+712,alphaNTD homodimer interface,35127,alphantd homodimer interface
+713,23S rRNA interaction site,35117,23s rrna interaction site
+714,putative dimerization interface,34991,dimerization interface
+715,streptomycin interaction site,34851,streptomycin interaction site
+716,homotrimer interface,34574,homotrimer interface
+717,tyrosyl radical,34445,tyrosyl radical
+718,beta' and sigma factor interface,34279,beta' and sigma factor interface
+719,allosteric site,34277,allosteric site
+720,putative domain interface,34085,domain interface
+721,intercalation triad,34080,intercalation triad
+722,H2TH interface,34074,h2th interface
+723,putative metal binding residues,34047,metal binding residues
+724,CROSSLNK: 5-imidazolinone (Ala-Gly).,33818,crosslnk: 5 imidazolinone (ala gly)
+725,putative reading head residues,33787,reading head residues
+726,beta and beta' interface,33782,beta and beta' interface
+727,active site region,33647,active site region
+728,REGION: IMP binding.,33628,region: imp binding
+729,BINDING: IMP.,33628,binding: imp
+730,MOD_RES: 3-oxoalanine (Ser).,33546,mod_res: 3 oxoalanine (ser)
+731,ACT_SITE: Schiff-base intermediate with substrate; via pyruvic acid.,33441,act_site: schiff base intermediate with substrate; via pyruvic acid
+732,"Nucleophile, forms methylthioether with methyl group from SAM",33316,"nucleophile, forms methylthioether with methyl group from sam"
+733,"Nucleophile, initiates reductive cleavage of S-S bond",33316,"nucleophile, initiates reductive cleavage of s s bond"
+734,putative ParB Box II like motif,33310,parb box ii like motif
+735,homodimer binding site,33085,homodimer binding site
+736,SITE: Catalytically relevant.,33021,site: catalytically relevant
+737,ACT_SITE: Proton donor; for transglycosylase activity.,32682,act_site: proton donor; for transglycosylase activity
+738,3-fold/trimer interface,32682,3 fold/trimer interface
+739,ACT_SITE: Acyl-ester intermediate; for transpeptidase activity.,32681,act_site: acyl ester intermediate; for transpeptidase activity
+740,domain interaction interfaces,32524,domain interaction interfaces
+741,Na binding site 2,32461,na binding site 2
+742,heterotetramer interface,32395,heterotetramer interface
+743,Tetramer interface,32305,tetramer interface
+744,oligomeric interface,32134,oligomeric interface
+745,4-fold oligomerization interface,32132,4 fold oligomerization interface
+746,MOD_RES: O-(pantetheine 4'-phosphoryl)serine.,32120,mod_res: o (pantetheine 4' phosphoryl)serine
+747,pore gating glutamate residue,32088,pore gating glutamate residue
+748,16S rRNA interaction site,31992,16s rrna interaction site
+749,purine nucleoside binding site,31983,purine nucleoside binding site
+750,metal binding residues,31832,metal binding residues
+751,KMSK motif region,31631,kmsk motif region
+752,MPT binding site,31623,mpt binding site
+753,BINDING: GMP.,31568,binding: gmp
+754,GTPase/Zn-binding domain interface,31190,gtpase/zn binding domain interface
+755,tetramerization interface,31185,tetramerization interface
+756,iron-sulfur cluster,30711,iron sulfur cluster
+757,FMN-binding site,30542,fmn binding site
+758,MOD_RES: Pyruvic acid (Ser).,30496,mod_res: pyruvic acid (ser)
+759,"general acid, sometimes general base, Mg2+ ligand",30358,"general acid, sometimes general base, mg2+ ligand"
+760,CHAIN: Aspartate 1-decarboxylase beta chain.,30259,chain: aspartate 1 decarboxylase beta chain
+761,diiron center,30211,diiron center
+762,CPxP  motif,30180,cpxp motif
+763,putative aspartate binding site,30066,aspartate binding site
+764,DNA binding and oxoG recognition site,29931,dna binding and oxog recognition site
+765,nucleotide binding site/active site,29822,nucleotide binding site/active site
+766,CHAIN: Aspartate 1-decarboxylase alpha chain.,29752,chain: aspartate 1 decarboxylase alpha chain
+767,core domain interface,29604,core domain interface
+768,coenzyme A binding site,29576,coenzyme a binding site
+769,BINDING: FAD; via carbonyl oxygen.,29555,binding: fad; via carbonyl oxygen
+770,proximal heme binding site,29317,proximal heme binding site
+771,SITE: Important for substrate specificity.,29174,site: important for substrate specificity
+772,substrate interaction site,28741,substrate interaction site
+773,putative homotetramer interface,28545,homotetramer interface
+774,structural tetrad,28171,structural tetrad
+775,UGI interface,28094,ugi interface
+776,BINDING: L-threonine.,27991,binding: l threonine
+777,BINDING: L-threonine; via carbonyl oxygen.,27987,binding: l threonine; via carbonyl oxygen
+778,interface (dimer of trimers),27947,interface (dimer of trimers)
+779,sulfate 1 binding site,27635,sulfate 1 binding site
+780,S17 interaction site,27604,s17 interaction site
+781,HXXH motif,27379,hxxh motif
+782,METAL: Calcium 2; via carbonyl oxygen.,27332,metal: calcium 2; via carbonyl oxygen
+783,dinuclear metal binding motif,27324,dinuclear metal binding motif
+784,ACT_SITE: Nucleophile and sulfur donor.,27274,act_site: nucleophile and sulfur donor
+785,REGION: Pyrroloquinoline quinone binding.,27269,region: pyrroloquinoline quinone binding
+786,putative homodimer-homodimer interface,27195,homodimer homodimer interface
+787,hexamer (dimer of trimers) interface,27125,hexamer (dimer of trimers) interface
+788,putative carbohydrate binding site,27078,carbohydrate binding site
+789,metal binding site A,27017,metal binding site a
+790,thiS-thiF interaction site,26920,this thif interaction site
+791,activator binding site,26874,activator binding site
+792,BINDING: Coenzyme A; via carbonyl oxygen.,26816,binding: coenzyme a; via carbonyl oxygen
+793,SITE: Cleavage; by autolysis.,26550,site: cleavage; by autolysis
+794,METAL: Iron (heme 3 axial ligand).,26512,metal: iron (heme 3 axial ligand)
+795,positions Lys,26416,positions lys
+796,putative radical transfer pathway,26347,radical transfer pathway
+797,peroxidatic and resolving cysteines,26288,peroxidatic and resolving cysteines
+798,BINDING: L-tryptophan.,26082,binding: l tryptophan
+799,Fe binding site,26081,fe binding site
+800,predicted 30S ribosome binding site,26068,predicted 30s ribosome binding site
+801,dimerization domain swap beta strand,25910,dimerization domain swap beta strand
+802,Helps position phosphoryl group,25747,helps position phosphoryl group
+803,putative cAMP binding site,25733,camp binding site
+804,N-acetyl-L-glutamate binding site,25726,n acetyl l glutamate binding site
+805,sequence specific DNA binding site,25722,sequence specific dna binding site
+806,DCoH dimer interaction site,25634,dcoh dimer interaction site
+807,8-oxo-dGMP binding site,25519,8 oxo dgmp binding site
+808,acid (promotes elim of OH),25451,acid (promotes elim of oh)
+809,facilitates removal of Mg2+ PPi product complex formed in both half-reactions,25403,facilitates removal of mg2+ ppi product complex formed in both half reactions
+810,DCoH /HNF-1 dimer interaction site,25341,dcoh /hnf 1 dimer interaction site
+811,decamer (pentamer of dimers) interface,25296,decamer (pentamer of dimers) interface
+812,DCoH tetramer interaction site,25282,dcoh tetramer interaction site
+813,controls pKa of catalytic His,25239,controls pka of catalytic his
+814,active site clefts,25151,active site clefts
+815,non-specific DNA interactions,25146,non specific dna interactions
+816,NP_BIND: FMN binding.,24966,np_bind: fmn binding
+817,aromatic arch,24939,aromatic arch
+818,BINDING: Heme 2 (covalent).,24926,binding: heme 2 (covalent)
+819,Cl binding site,24822,cl binding site
+820,"binds phosphate moiety of substrate, positions water",24739,"binds phosphate moiety of substrate, positions water"
+821,putative PHP Thumb interface,24684,php thumb interface
+822,BINDING: Heme 1 (covalent).,24641,binding: heme 1 (covalent)
+823,ferroxidase diiron center,24609,ferroxidase diiron center
+824,Substrate Binding Site I,24502,substrate binding site i
+825,"positions nucleophilic Asp, binds phosphate moiety of substrate",24460,"positions nucleophilic asp, binds phosphate moiety of substrate"
+826,putative Mg ion binding site,24459,mg ion binding site
+827,GXXG motif,24452,gxxg motif
+828,Substrate Binding Site II,24241,substrate binding site ii
+829,putative allosteric switch controlling residues,24193,allosteric switch controlling residues
+830,dockerin binding interface,24179,dockerin binding interface
+831,REGION: D-ribulose 5-phosphate binding.,23965,region: d ribulose 5 phosphate binding
+832,BINDING: D-ribulose 5-phosphate.,23965,binding: d ribulose 5 phosphate
+833,putative substrate interface,23855,substrate interface
+834,MoaD interaction,23842,moad interaction
+835,Hpr binding site,23804,hpr binding site
+836,thiS-thiG interaction site,23783,this thig interaction site
+837,putative L-serine binding site,23582,l serine binding site
+838,METAL: Zinc 4.,23381,metal: zinc 4
+839,domain crossover interface,23258,domain crossover interface
+840,binuclear metal-binding site,23177,binuclear metal binding site
+841,putative switch regulator,23167,switch regulator
+842,proton abstraction (general base),22917,proton abstraction (general base)
+843,tetramer interfaces,22914,tetramer interfaces
+844,MoaE homodimer interface,22906,moae homodimer interface
+845,carbohydrate binding site,22630,carbohydrate binding site
+846,L21e interface,22294,l21e interface
+847,pantoate-binding site,22237,pantoate binding site
+848,putative NADP binding site,21878,nadp binding site
+849,L-serine binding site,21760,l serine binding site
+850,SITE: May be important for catalysis.,21759,site: may be important for catalysis
+851,glycerol binding site,21662,glycerol binding site
+852,homohexamer subunit interaction site,21653,homohexamer subunit interaction site
+853,SITE: Important for substrate recognition.,21625,site: important for substrate recognition
+854,binding pocket,21610,binding pocket
+855,quinone interaction residues,21428,quinone interaction residues
+856,Rpb1 (beta') - Rpb6 (omega) interaction site,21344,rpb1 (beta') rpb6 (omega) interaction site
+857,Hexagonal pore residue,21339,hexagonal pore residue
+858,putative molybdopterin cofactor binding site,21297,molybdopterin cofactor binding site
+859,BINDING: Heme (covalent; via pros nitrogen).,21189,binding: heme (covalent; via pros nitrogen)
+860,METAL: Nickel; via tele nitrogen.,21123,metal: nickel; via tele nitrogen
+861,ANP binding site,21097,anp binding site
+862,FBP binding site,21068,fbp binding site
+863,ACT_SITE: Amidino-cysteine intermediate.,20905,act_site: amidino cysteine intermediate
+864,SITE: Critical for activity.,20896,site: critical for activity
+865,Subunit I/III interface,20864,subunit i/iii interface
+866,citrylCoA binding site,20831,citrylcoa binding site
+867,homodimer interaction site,20711,homodimer interaction site
+868,BINDING: Allantoate; via carbonyl oxygen.,20640,binding: allantoate; via carbonyl oxygen
+869,BINDING: Allantoate.,20640,binding: allantoate
+870,ACT_SITE: Proton acceptor; via imino nitrogen.,20621,act_site: proton acceptor; via imino nitrogen
+871,MoaD-MoeB interaction site,20596,moad moeb interaction site
+872,Metal-binding active site,20545,metal binding active site
+873,MoaD-MoaE interaction site,20491,moad moae interaction site
+874,putative cataytic base,20362,cataytic base
+875,DNA intercalation site,20357,dna intercalation site
+876,"interacts with phosphate oxygen, facilitating hydrolysis",20336,"interacts with phosphate oxygen, facilitating hydrolysis"
+877,nucleophile,20330,nucleophile
+878,general acid/base,20330,general acid/base
+879,METAL: Iron (heme 5 axial ligand).,20328,metal: iron (heme 5 axial ligand)
+880,ACT_SITE: Schiff-base intermediate with DNA.,20312,act_site: schiff base intermediate with dna
+881,trimer interface A,20289,trimer interface a
+882,DPS ferroxidase diiron center,20261,dps ferroxidase diiron center
+883,ACT domain interface,20215,act domain interface
+884,trimer interface B,20186,trimer interface b
+885,putative cation binding site,20152,cation binding site
+886,Sm1 motif,20067,sm1 motif
+887,GSH binding site,20058,gsh binding site
+888,BINDING: Heme 5; covalent.,19828,binding: heme 5; covalent
+889,proximal quinone binding site,19793,proximal quinone binding site
+890,heme-binding residues,19688,heme binding residues
+891,putative Iron-sulfur protein interface,19560,iron sulfur protein interface
+892,substrate binding pocket (H-site),19502,substrate binding pocket (h site)
+893,Cl- binding residues,19440,cl binding residues
+894,Cl- selectivity filter,19401,cl selectivity filter
+895,putative NADH binding site,19346,nadh binding site
+896,Sm2 motif,19013,sm2 motif
+897,DNA interaction,18969,dna interaction
+898,Binds S-adensosylmethionine,18718,binds s adensosylmethionine
+899,ACT_SITE: N6-AMP-lysine intermediate.,18661,act_site: n6 amp lysine intermediate
+900,mismatch recognition site,18637,mismatch recognition site
+901,THF binding site,18634,thf binding site
+902,putative tRNAtyr binding site,18536,trnatyr binding site
+903,Schiff base residues,18521,schiff base residues
+904,redox-dependent activation switch,18236,redox dependent activation switch
+905,thiamine binding site,18225,thiamine binding site
+906,putative HM ion binding site,18213,hm ion binding site
+907,METAL: Divalent metal cation 1; via tele nitrogen.,18146,metal: divalent metal cation 1; via tele nitrogen
+908,METAL: Divalent metal cation 2; via tele nitrogen.,18146,metal: divalent metal cation 2; via tele nitrogen
+909,METAL: Divalent metal cation 2; via pros nitrogen.,18145,metal: divalent metal cation 2; via pros nitrogen
+910,transmembrane helices,18113,transmembrane helices
+911,eyelet of channel,18054,eyelet of channel
+912,METAL: Iron (heme axial ligand); shared with dimeric partner.,18051,metal: iron (heme axial ligand); shared with dimeric partner
+913,REGION: Chorismate binding.,18015,region: chorismate binding
+914,REGION: Tryptophan binding.,18015,region: tryptophan binding
+915,putative HsdM interface,17976,hsdm interface
+916,METAL: Zinc 2; via carbamate group.,17946,metal: zinc 2; via carbamate group
+917,METAL: Zinc 1; via carbamate group.,17946,metal: zinc 1; via carbamate group
+918,Q-X-W motif,17901,q x w motif
+919,putative AP binding site,17899,ap binding site
+920,intersubunit interactions,17775,intersubunit interactions
+921,ThiS interaction site,17723,this interaction site
+922,ADP-binding pocket,17716,adp binding pocket
+923,protein IIAGlc interface,17714,protein iiaglc interface
+924,Hexamer interface,17676,hexamer interface
+925,hydrophilic channel,17649,hydrophilic channel
+926,putative sugar binding sites,17594,sugar binding sites
+927,BINDING: L-tryptophan; via carbonyl oxygen.,17593,binding: l tryptophan; via carbonyl oxygen
+928,ion pore,17495,ion pore
+929,forms cationic cavity that facilitates hydrolysis of phosphate,17395,forms cationic cavity that facilitates hydrolysis of phosphate
+930,active site nucleophile,17372,active site nucleophile
+931,putative GSH binding site,17244,gsh binding site
+932,Nuceophile,17188,nuceophile
+933,"Nucleophile, Methyl donor",17188,"nucleophile, methyl donor"
+934,putative metal binding site B,16954,metal binding site b
+935,oxalacetate/citrate binding site,16945,oxalacetate/citrate binding site
+936,CysD dimerization site,16937,cysd dimerization site
+937,metal binding sites,16816,metal binding sites
+938,METAL: Nickel.,16725,metal: nickel
+939,additional DNA contacts,16624,additional dna contacts
+940,AP binding site,16601,ap binding site
+941,Substrate specificity,16595,substrate specificity
+942,Iron-sulfur protein interface,16439,iron sulfur protein interface
+943,Rab family motif 5 (RabF5),16373,rab family motif 5 (rabf5)
+944,Rab family motif 4 (RabF4),16337,rab family motif 4 (rabf4)
+945,Qo binding site,16250,qo binding site
+946,Di-iron ligands,16216,di iron ligands
+947,glycine loop,16165,glycine loop
+948,"base (abstracts alpha proton), acid (donates proton to leaving group)",16162,"base (abstracts alpha proton), acid (donates proton to leaving group)"
+949,stabilizes intermediate through cation-pi interaction,16162,stabilizes intermediate through cation pi interaction
+950,Pyrimidine base specificity,16133,pyrimidine base specificity
+951,dimer interaction site,16046,dimer interaction site
+952,uracil binding,16030,uracil binding
+953,steroid binding site,16023,steroid binding site
+954,FliM/FliG interface,15998,flim/flig interface
+955,ACT_SITE: Glycyl thioester intermediate.,15980,act_site: glycyl thioester intermediate
+956,METAL: Iron (heme 4 axial ligand).,15924,metal: iron (heme 4 axial ligand)
+957,catalytic base,15921,catalytic base
+958,effector interaction site,15891,effector interaction site
+959,Rab family motif 3 (RabF3),15829,rab family motif 3 (rabf3)
+960,metal binding site B,15823,metal binding site b
+961,putative threonine allosteric regulatory site,15802,threonine allosteric regulatory site
+962,Peptide binding site,15782,peptide binding site
+963,putative NEF/HSP70 interaction site,15734,nef/hsp70 interaction site
+964,putative N-terminal domain interface,15714,n terminal domain interface
+965,Rab family motif 2 (RabF2),15584,rab family motif 2 (rabf2)
+966,proposed active site lysine,15482,proposed active site lysine
+967,Substrate-binding site,15397,substrate binding site
+968,primase nucleotide-binding site,15323,primase nucleotide binding site
+969,ligand binding surface,15302,ligand binding surface
+970,feedback inhibition sensing region,15141,feedback inhibition sensing region
+971,proposed catalytic triad,15138,proposed catalytic triad
+972,periplasmic entrance,14965,periplasmic entrance
+973,substrate-binding site,14955,substrate binding site
+974,beta-sandwich domain interface,14939,beta sandwich domain interface
+975,METAL: Iron (heme C 1 axial ligand); via tele nitrogen.,14932,metal: iron (heme c 1 axial ligand); via tele nitrogen
+976,ligand binding cavity,14849,ligand binding cavity
+977,substrate-binding tunnel,14818,substrate binding tunnel
+978,Sugar specificity,14815,sugar specificity
+979,tetrameric interface,14771,tetrameric interface
+980,SdhD (CybS) interface,14748,sdhd (cybs) interface
+981,switch loop,14746,switch loop
+982,DsbD alpha interface,14667,dsbd alpha interface
+983,intrachain domain interface,14667,intrachain domain interface
+984,Rab subfamily motif 3 (RabSF3),14628,rab subfamily motif 3 (rabsf3)
+985,Rab family motif 1 (RabF1),14497,rab family motif 1 (rabf1)
+986,protein-splicing catalytic site,14494,protein splicing catalytic site
+987,METAL: Iron (heme C 2 axial ligand); via tele nitrogen.,14343,metal: iron (heme c 2 axial ligand); via tele nitrogen
+988,METAL: Iron-sulfur 4 (4Fe-4S).,14327,metal: iron sulfur 4 (4fe 4s)
+989,MOD_RES: ADP-ribosylarginine; by dinitrogenase reductase ADP-ribosyltransferase.,14018,mod_res: adp ribosylarginine; by dinitrogenase reductase adp ribosyltransferase
+990,Binds Zn(II) ion,13891,binds zn(ii) ion
+991,ACT_SITE: 4-aspartylphosphate intermediate.,13870,act_site: 4 aspartylphosphate intermediate
+992,NAD+ binding site,13757,nad+ binding site
+993,Rab subfamily motif 2 (RabSF2),13733,rab subfamily motif 2 (rabsf2)
+994,interchain domain interface,13670,interchain domain interface
+995,GDI interaction site,13641,gdi interaction site
+996,putative Domain 2 interface,13599,domain 2 interface
+997,nucleophilic elbow,13561,nucleophilic elbow
+998,REGION: Phosphate binding.,13504,region: phosphate binding
+999,BINDING: Phosphate.,13502,binding: phosphate
+1000,R2 peptide binding site,13472,r2 peptide binding site
+1001,REGION: L-glutamine binding.,13402,region: l glutamine binding
+1002,BINDING: L-glutamine.,13401,binding: l glutamine
+1003,PA/protease or protease-like domain interface,13393,pa/protease or protease like domain interface
+1004,activates water (indirectly),13383,activates water (indirectly)
+1005,active pocket/dimerization site,13349,active pocket/dimerization site
+1006,thioester region,13348,thioester region
+1007,polymerase nucleotide-binding site,13297,polymerase nucleotide binding site
+1008,BINDING: Substrate 2.,13284,binding: substrate 2
+1009,BINDING: Substrate 1.,13284,binding: substrate 1
+1010,putative tRNA binding site,13140,trna binding site
+1011,putative ADP binding site,13050,adp binding site
+1012,tRNA,12964,trna
+1013,HslU subunit interaction site,12907,hslu subunit interaction site
+1014,putative Domain 3 interface,12873,domain 3 interface
+1015,basic sphincter,12807,basic sphincter
+1016,SITE: Important for enzyme activity.,12763,site: important for enzyme activity
+1017,METAL: Iron (heme C 2 axial ligand).,12749,metal: iron (heme c 2 axial ligand)
+1018,METAL: Iron (heme C 1 axial ligand).,12749,metal: iron (heme c 1 axial ligand)
+1019,putative ribose interaction site,12716,ribose interaction site
+1020,putative Domain 1 interface,12673,domain 1 interface
+1021,"BINDING: Phosphatidylinositol 4,5-bisphosphate.",12533,"binding: phosphatidylinositol 4,5 bisphosphate"
+1022,DNA-binding residues,12513,dna binding residues
+1023,active site 1,12407,active site 1
+1024,homooctamer interface,12388,homooctamer interface
+1025,putative RNA binding cleft,12381,rna binding cleft
+1026,BINDING: Substrate; via tele nitrogen.,12220,binding: substrate; via tele nitrogen
+1027,nucleophile: forms covalent intermediate,12187,nucleophile: forms covalent intermediate
+1028,interacts with substrate/intermediate,12187,interacts with substrate/intermediate
+1029,METAL: Zinc 2; via pros nitrogen; catalytic.,12073,metal: zinc 2; via pros nitrogen; catalytic
+1030,xylulose binding site,12067,xylulose binding site
+1031,Ap4A binding site,12064,ap4a binding site
+1032,Radical stabilisation,12010,radical stabilisation
+1033,putative hexamer interface,11989,hexamer interface
+1034,D-X-S-D-E motif,11966,d x s d e motif
+1035,acetate binding site,11966,acetate binding site
+1036,putative triphosphate binding site,11853,triphosphate binding site
+1037,calcium-binding site,11836,calcium binding site
+1038,heme bL binding site,11823,heme bl binding site
+1039,Subunit III/Vb interface,11819,subunit iii/vb interface
+1040,HsdM interface,11797,hsdm interface
+1041,SITE: Plays an important role in maintaining the position of the catalytic nucleophile.,11784,site: plays an important role in maintaining the position of the catalytic nucleophile
+1042,acceptor-phosphate pocket,11771,acceptor phosphate pocket
+1043,active site cysteine,11761,active site cysteine
+1044,putative ligand binding pocket/active site,11747,ligand binding pocket/active site
+1045,polyP binding site,11706,polyp binding site
+1046,putative hexagonal pore,11627,hexagonal pore
+1047,AP (apurinic/apyrimidinic) site pocket,11577,ap (apurinic/apyrimidinic) site pocket
+1048,probable active site,11465,probable active site
+1049,PUA domain interface,11441,pua domain interface
+1050,[4Fe-4S] binding site,11437,[4fe 4s] binding site
+1051,putative Ile/Val binding site,11334,ile/val binding site
+1052,Domain interface,11333,domain interface
+1053,DNA-binding interface,11322,dna binding interface
+1054,putative di-iron ligands,11237,di iron ligands
+1055,MOD_RES: O-(phosphoribosyl dephospho-coenzyme A)serine.,11143,mod_res: o (phosphoribosyl dephospho coenzyme a)serine
+1056,NP_BIND: NAD 1.,11143,np_bind: nad 1
+1057,BINDING: Purine nucleoside.,10981,binding: purine nucleoside
+1058,BINDING: Phosphate; via amide nitrogen.,10980,binding: phosphate; via amide nitrogen
+1059,putative coenzyme Q binding site,10950,coenzyme q binding site
+1060,surface patch,10927,surface patch
+1061,nickel binding site,10872,nickel binding site
+1062,SITE: Enhances dephosphorylation of CheY-P.,10861,site: enhances dephosphorylation of chey p
+1063,"PLP binding, reaction nucleophile",10807,"plp binding, reaction nucleophile"
+1064,PLP binding,10807,plp binding
+1065,BINDING: D-ribose 5-phosphate.,10793,binding: d ribose 5 phosphate
+1066,BINDING: D-ribose 5-phosphate; via amide nitrogen.,10793,binding: d ribose 5 phosphate; via amide nitrogen
+1067,REGION: D-ribose 5-phosphate binding.,10793,region: d ribose 5 phosphate binding
+1068,heptamer interface,10570,heptamer interface
+1069,Putative water exit pathway,10526,water exit pathway
+1070,Subunit III/VIb interface,10469,subunit iii/vib interface
+1071,BINDING: Substrate; shared with homodimeric partner.,10421,binding: substrate; shared with homodimeric partner
+1072,active site 2,10357,active site 2
+1073,Domain 2 interface,10277,domain 2 interface
+1074,Mn binding site,10222,mn binding site
+1075,Active site tetrad,10200,active site tetrad
+1076,Qi binding site,10189,qi binding site
+1077,Putative proton exit pathway,10163,proton exit pathway
+1078,METAL: Nickel-iron-sulfur (Ni-4Fe-4S); via tele nitrogen.,10125,metal: nickel iron sulfur (ni 4fe 4s); via tele nitrogen
+1079,heterodimer interface 2,10085,heterodimer interface 2
+1080,Subunit III/VIa interface,10059,subunit iii/via interface
+1081,distal heme binding site,10039,distal heme binding site
+1082,TDP-binding site,10024,tdp binding site
+1083,MOD_RES: 4-aspartylphosphate.,9975,mod_res: 4 aspartylphosphate
+1084,MOD_RES: Phosphohistidine.,9975,mod_res: phosphohistidine
+1085,ACT_SITE: N6-GMP-lysine intermediate.,9945,act_site: n6 gmp lysine intermediate
+1086,active site flap/lid,9938,active site flap/lid
+1087,ferroxidase pore,9914,ferroxidase pore
+1088,hydrophobic ligand binding site,9893,hydrophobic ligand binding site
+1089,hydroxycobalamin binding site,9886,hydroxycobalamin binding site
+1090,heterodimer interface 1,9771,heterodimer interface 1
+1091,METAL: Iron 2; via pros nitrogen.,9766,metal: iron 2; via pros nitrogen
+1092,METAL: Calcium 3.,9755,metal: calcium 3
+1093,aspartate-rich active site metal binding site,9629,aspartate rich active site metal binding site
+1094,dimerization domain,9617,dimerization domain
+1095,GDP-Fucose binding site,9559,gdp fucose binding site
+1096,multimerization interface,9536,multimerization interface
+1097,heterotrimer interface,9532,heterotrimer interface
+1098,alpha helical domain,9517,alpha helical domain
+1099,pyrimidine nucleoside binding site,9455,pyrimidine nucleoside binding site
+1100,HAD signature motif I,9383,had signature motif i
+1101,predicted active site,9359,predicted active site
+1102,central pore,9341,central pore
+1103,Skp1 binding site,9319,skp1 binding site
+1104,allosteric regulatory residue,9291,allosteric regulatory residue
+1105,METAL: Magnesium; shared with all trimeric partners.,9231,metal: magnesium; shared with all trimeric partners
+1106,coenzyme B12 binding site,9228,coenzyme b12 binding site
+1107,putative FMN binding site,9191,fmn binding site
+1108,Rab subfamily motif 1 (RabSF1),9177,rab subfamily motif 1 (rabsf1)
+1109,dimer interfaces,9170,dimer interfaces
+1110,Binds substrate,9147,binds substrate
+1111,specificity defining residues,9138,specificity defining residues
+1112,gate,9123,gate
+1113,"Binds phosphate, increasing electrophilicity of phosphorous for nucleophilic attack",9107,"binds phosphate, increasing electrophilicity of phosphorous for nucleophilic attack"
+1114,Hexamer/Pentamer interface,9099,hexamer/pentamer interface
+1115,putative Cl binding site,9062,cl binding site
+1116,hydrophobic gate,8995,hydrophobic gate
+1117,putative CheA interaction surface,8994,chea interaction surface
+1118,NTP  binding site,8945,ntp binding site
+1119,METAL: Iron 1; via pros nitrogen.,8903,metal: iron 1; via pros nitrogen
+1120,NAD(p) ribose binding residues,8884,nad(p) ribose binding residues
+1121,heme bH binding site,8842,heme bh binding site
+1122,"BINDING:  N-acyl-1,2-diacyl-sn-glycero-3-phosphoethanolamine.",8839,"binding: n acyl 1,2 diacyl sn glycero 3 phosphoethanolamine"
+1123,Subunit III/VIIa interface,8813,subunit iii/viia interface
+1124,cation binding site,8794,cation binding site
+1125,SITE: Transition state stabilizer; via amide nitrogen.,8724,site: transition state stabilizer; via amide nitrogen
+1126,primer binding site,8719,primer binding site
+1127,Glutamate binding site,8706,glutamate binding site
+1128,Ub thioester intermediate interaction residues,8601,ub thioester intermediate interaction residues
+1129,METAL: Magnesium (bacteriochlorophyll axial ligand).,8578,metal: magnesium (bacteriochlorophyll axial ligand)
+1130,aspartate binding site,8528,aspartate binding site
+1131,glycogen binding site,8514,glycogen binding site
+1132,probable substrate binding site,8443,probable substrate binding site
+1133,beta-gamma subunit interface,8384,beta gamma subunit interface
+1134,metal coordination site,8352,metal coordination site
+1135,dimanganese center,8347,dimanganese center
+1136,potential catalytic triad,8308,potential catalytic triad
+1137,putative N- and C-terminal domain interface,8198,n and c terminal domain interface
+1138,F-box motif,8193,f box motif
+1139,central insert,8112,central insert
+1140,Phe binding site,8102,phe binding site
+1141,BINDING: Pyrroloquinoline quinone; via amide nitrogen.,8026,binding: pyrroloquinoline quinone; via amide nitrogen
+1142,BINDING: 5-methoxybenzimidazolylcob(I)amide.,7936,binding: 5 methoxybenzimidazolylcob(i)amide
+1143,REGION: 5-methoxybenzimidazolylcob(I)amide binding.,7930,region: 5 methoxybenzimidazolylcob(i)amide binding
+1144,METAL: Iron; via tele nitrogen; catalytic.,7928,metal: iron; via tele nitrogen; catalytic
+1145,putative proximal heme binding site,7926,proximal heme binding site
+1146,putative deaminated base recognition pocket,7882,deaminated base recognition pocket
+1147,alpha-beta subunit interface,7841,alpha beta subunit interface
+1148,non-prolyl cis peptide bond,7818,non prolyl cis peptide bond
+1149,SITE: Important for obstruction of the ion pore in the closed conformation.,7761,site: important for obstruction of the ion pore in the closed conformation
+1150,K-pathway,7723,k pathway
+1151,NADH binding,7701,nadh binding
+1152,cationic pore residues,7701,cationic pore residues
+1153,Rab subfamily motif 4 (RabSF4),7697,rab subfamily motif 4 (rabsf4)
+1154,Domain 3 interface,7575,domain 3 interface
+1155,allosteric magnesium binding site,7565,allosteric magnesium binding site
+1156,protein interface,7553,protein interface
+1157,putative TRX-like catalytic residues,7525,trx like catalytic residues
+1158,PAAR motifs,7467,paar motifs
+1159,putative ligand binding pocket,7434,ligand binding pocket
+1160,Domain 1 interface,7433,domain 1 interface
+1161,hybrid metal cluster,7387,hybrid metal cluster
+1162,Cu2+ binding site,7359,cu2+ binding site
+1163,S2 subsite,7296,s2 subsite
+1164,NAD(P)-pyrophosphate-nicotinamide binding residues,7285,nad(p) pyrophosphate nicotinamide binding residues
+1165,P-class dimer interface,7256,p class dimer interface
+1166,alpha-gamma subunit interface,7236,alpha gamma subunit interface
+1167,D-pathway,7219,d pathway
+1168,BINDING: Substrate; shared with dimeric partner.,7195,binding: substrate; shared with dimeric partner
+1169,putative ArsC-like catalytic residues,7033,arsc like catalytic residues
+1170,zero layer,7021,zero layer
+1171,BINDING: 5-methoxybenzimidazolylcob(I)amide; via amide nitrogen.,7002,binding: 5 methoxybenzimidazolylcob(i)amide; via amide nitrogen
+1172,MOD_RES: N6-murein peptidoglycan lysine.,6989,mod_res: n6 murein peptidoglycan lysine
+1173,substrate specificity loop,6967,substrate specificity loop
+1174,FMN-binding pocket,6950,fmn binding pocket
+1175,phosphagen binding site,6941,phosphagen binding site
+1176,BINDING: Heme 6; covalent.,6921,binding: heme 6; covalent
+1177,Phospholipid binding site,6919,phospholipid binding site
+1178,METAL: Iron (heme 6 axial ligand).,6912,metal: iron (heme 6 axial ligand)
+1179,Mg2+ ligand (via water),6910,mg2+ ligand (via water)
+1180,flavin binding motif,6901,flavin binding motif
+1181,gamma-beta subunit interface,6887,gamma beta subunit interface
+1182,reactive center loop (RCL),6864,reactive center loop (rcl)
+1183,METAL: Calcium 3; via carbonyl oxygen.,6810,metal: calcium 3; via carbonyl oxygen
+1184,METAL: Iron (heme 8 axial ligand).,6762,metal: iron (heme 8 axial ligand)
+1185,METAL: Iron-sulfur 1 (4Fe-4S); shared with dimeric partner.,6748,metal: iron sulfur 1 (4fe 4s); shared with dimeric partner
+1186,REGION: Coenzyme A binding.,6745,region: coenzyme a binding
+1187,redox center,6733,redox center
+1188,METAL: Copper B; via pros nitrogen.,6728,metal: copper b; via pros nitrogen
+1189,METAL: Iron (low-spin heme axial ligand); via tele nitrogen.,6728,metal: iron (low spin heme axial ligand); via tele nitrogen
+1190,METAL: Copper B; via tele nitrogen.,6728,metal: copper b; via tele nitrogen
+1191,METAL: Iron (high-spin heme axial ligand); via tele nitrogen.,6728,metal: iron (high spin heme axial ligand); via tele nitrogen
+1192,putative BtuC binding residues,6673,btuc binding residues
+1193,"SITE: The binding site for the sugar molecule has not yet been established, but C-87 may be involved.",6642,"site: the binding site for the sugar molecule has not yet been established, but c 87 may be involved"
+1194,AB domain interface,6634,ab domain interface
+1195,putative hydrophobic gate,6573,hydrophobic gate
+1196,Binds substrate and possible involvement in hydrogen atom relay,6555,binds substrate and possible involvement in hydrogen atom relay
+1197,Binds auxillary [FeS] cluster,6555,binds auxillary [fes] cluster
+1198,"Acts as a cap to the active site, exclusing water",6555,"acts as a cap to the active site, exclusing water"
+1199,Binds substrate FeS cluster,6555,binds substrate fes cluster
+1200,cobalamin binding residues,6553,cobalamin binding residues
+1201,pyridoxal binding site,6325,pyridoxal binding site
+1202,putative alpha subunit interface,6291,alpha subunit interface
+1203,putative protofilament interface,6234,protofilament interface
+1204,18S rRNA binding site,6204,18s rrna binding site
+1205,VirB7 interaction site,6163,virb7 interaction site
+1206,Gluconate-6-phosphate binding site,6128,gluconate 6 phosphate binding site
+1207,drug binding residues,6112,drug binding residues
+1208,apolar tunnel,6106,apolar tunnel
+1209,putative amphipathic alpha helix,6103,amphipathic alpha helix
+1210,MOD_RES: S-(4-hydroxycinnamyl)cysteine.,6099,mod_res: s (4 hydroxycinnamyl)cysteine
+1211,Forms anion binding pocket,6087,forms anion binding pocket
+1212,conserved FAD binding motif,6045,conserved fad binding motif
+1213,maleylacetoacetate (MAA) substrate binding site (H site),6035,maleylacetoacetate (maa) substrate binding site (h site)
+1214,cubane metal cluster,5957,cubane metal cluster
+1215,binds phosphate moiety of substrate,5939,binds phosphate moiety of substrate
+1216,METAL: Iron (heme 7 axial ligand).,5921,metal: iron (heme 7 axial ligand)
+1217,putative proximal quinone binding site,5917,proximal quinone binding site
+1218,METAL: Magnesium 1; via carbonyl oxygen; catalytic.,5898,metal: magnesium 1; via carbonyl oxygen; catalytic
+1219,Ap6A binding site,5877,ap6a binding site
+1220,phosphoinositide binding site,5876,phosphoinositide binding site
+1221,Binds [2Fe-2S] cluster,5864,binds [2fe 2s] cluster
+1222,"Binds [2Fe-2S] cluster, Modifies RedOx potential",5864,"binds [2fe 2s] cluster, modifies redox potential"
+1223,putative polypeptide substrate binding site,5844,polypeptide substrate binding site
+1224,Moco binding site,5783,moco binding site
+1225,Trp docking motif,5700,trp docking motif
+1226,divalent metal binding site,5685,divalent metal binding site
+1227,amphipathic channel,5655,amphipathic channel
+1228,Asn-Pro-Ala signature motifs,5654,asn pro ala signature motifs
+1229,acceptor substrate-binding pocket,5627,acceptor substrate binding pocket
+1230,Subunit I/II interface,5623,subunit i/ii interface
+1231,calcium binding site 1,5621,calcium binding site 1
+1232,crRNA binding site,5587,crrna binding site
+1233,ACT_SITE: Tele-AMP-histidine intermediate.,5426,act_site: tele amp histidine intermediate
+1234,dinuclear metal binding site,5414,dinuclear metal binding site
+1235,subunit II/IV interface,5403,subunit ii/iv interface
+1236,subunit II/VIc interface,5402,subunit ii/vic interface
+1237,REGION: Spermidine-binding.,5389,region: spermidine binding
+1238,gating phenylalanine in ion channel,5388,gating phenylalanine in ion channel
+1239,subunit I/II interface,5374,subunit i/ii interface
+1240,putative H2TH interface,5370,h2th interface
+1241,Dimer interface,5354,dimer interface
+1242,interchain disulfide,5353,interchain disulfide
+1243,substrate binding sites,5318,substrate binding sites
+1244,G-X-G motif,5306,g x g motif
+1245,calcium binding site 2,5290,calcium binding site 2
+1246,BINDING: Heme 7; covalent.,5288,binding: heme 7; covalent
+1247,Unknown,5269,unknown
+1248,metal ligand,5243,metal ligand
+1249,Active_site,5224,active_site
+1250,non-heme iron binding site,5198,non heme iron binding site
+1251,subunit II/VIb interface,5185,subunit ii/vib interface
+1252,receptor-ligand interactions,5168,receptor ligand interactions
+1253,AC domain interface,5129,ac domain interface
+1254,starch binding site,5123,starch binding site
+1255,purine base binding site,5019,purine base binding site
+1256,METAL: Nickel 2; via pros nitrogen.,5004,metal: nickel 2; via pros nitrogen
+1257,METAL: Nickel 2; via carbamate group.,5004,metal: nickel 2; via carbamate group
+1258,METAL: Nickel 1; via carbamate group.,5004,metal: nickel 1; via carbamate group
+1259,METAL: Nickel 2; via tele nitrogen.,5004,metal: nickel 2; via tele nitrogen
+1260,METAL: Nickel 1.,5004,metal: nickel 1
+1261,METAL: Nickel 1; via tele nitrogen.,5004,metal: nickel 1; via tele nitrogen
+1262,calcium binding site,4970,calcium binding site
+1263,flexible loop,4966,flexible loop
+1264,METAL: Iron (heme B axial ligand).,4947,metal: iron (heme b axial ligand)
+1265,LIPID: S-palmitoyl cysteine.,4944,lipid: s palmitoyl cysteine
+1266,3' ssDNA interaction site,4910,3' ssdna interaction site
+1267,BINDING: Heme 8; covalent.,4871,binding: heme 8; covalent
+1268,P-type ATPase signature motif,4841,p type atpase signature motif
+1269,putative SdhC subunit interface,4819,sdhc subunit interface
+1270,specific DNA base contacts,4818,specific dna base contacts
+1271,catalytic domain interface,4812,catalytic domain interface
+1272,"forms hydrogen bonding network with general acid/base, increasing activity",4756,"forms hydrogen bonding network with general acid/base, increasing activity"
+1273,redox-active Cys,4756,redox active cys
+1274,general acid / general base,4756,general acid / general base
+1275,toxin/antitoxin interface,4751,toxin/antitoxin interface
+1276,putative Zn binding site,4726,zn binding site
+1277,E3 interaction residues,4720,e3 interaction residues
+1278,Electron transfer pathway,4714,electron transfer pathway
+1279,E-class dimer interface,4700,e class dimer interface
+1280,REGION: Acetyl-CoA binding.,4640,region: acetyl coa binding
+1281,Subunit I/VIb interface,4618,subunit i/vib interface
+1282,Subunit I/VIc interface,4618,subunit i/vic interface
+1283,Binuclear center (heme a3/CuB),4603,binuclear center (heme a3/cub)
+1284,ribose-1-phosphate binding site,4587,ribose 1 phosphate binding site
+1285,Subunit I/VIIa interface,4556,subunit i/viia interface
+1286,putative allosteric regulatory residue,4550,allosteric regulatory residue
+1287,PCNA/FEN-1 protein interaction site,4544,pcna/fen 1 protein interaction site
+1288,4Fe-4S cluster binding site,4541,4fe 4s cluster binding site
+1289,Subunit I/VIa interface,4514,subunit i/via interface
+1290,arginine patch,4513,arginine patch
+1291,Cu binding site,4502,cu binding site
+1292,YdjC motif,4500,ydjc motif
+1293,PCNA/RFCL protein interaction site,4477,pcna/rfcl protein interaction site
+1294,peptide ligand binding site,4452,peptide ligand binding site
+1295,flexible flap,4443,flexible flap
+1296,toxin interface,4441,toxin interface
+1297,"2,4-decadienoyl-CoA binding site",4419,"2,4 decadienoyl coa binding site"
+1298,malate binding site,4332,malate binding site
+1299,putative active site cavity,4324,active site cavity
+1300,putative tetramer (dimer of dimers) interface,4316,tetramer (dimer of dimers) interface
+1301,Subunit I/VIIb interface,4313,subunit i/viib interface
+1302,insertion regions,4236,insertion regions
+1303,Cleavage Site (forms Pyruvoyl cofactor),4235,cleavage site (forms pyruvoyl cofactor)
+1304,Cleavage Site (forms carboxy terminus),4235,cleavage site (forms carboxy terminus)
+1305,PCNA/WAF1-CIP1 protein binding site,4231,pcna/waf1 cip1 protein binding site
+1306,Subunit I/VIIIb interface,4183,subunit i/viiib interface
+1307,SITE: Involved in acyl-ACP binding.,4177,site: involved in acyl acp binding
+1308,5' ssDNA interaction site,4171,5' ssdna interaction site
+1309,motif B,4129,motif b
+1310,METAL: Zinc 3.,4120,metal: zinc 3
+1311,Active site serine,4111,active site serine
+1312,Possible general acid/Base,4108,possible general acid/base
+1313,"MOD_RES: 2',4',5'-topaquinone.",4095,"mod_res: 2',4',5' topaquinone"
+1314,pelota interface,4087,pelota interface
+1315,Positions Lys,4065,positions lys
+1316,"Mg2+ ligand, general acid (donates proton to leaving group), general base (activates water)",4065,"mg2+ ligand, general acid (donates proton to leaving group), general base (activates water)"
+1317,METAL: Calcium 1; via amide nitrogen.,4009,metal: calcium 1; via amide nitrogen
+1318,domain_subunit interface,3978,domain_subunit interface
+1319,Low-spin heme (heme a) binding site,3939,low spin heme (heme a) binding site
+1320,inter-subunit interface,3929,inter subunit interface
+1321,purine riboside binding site,3925,purine riboside binding site
+1322,Subunit I/IV interface,3912,subunit i/iv interface
+1323,glutathione binding site,3901,glutathione binding site
+1324,DISULFID: Interchain.,3892,disulfid: interchain
+1325,METAL: Copper B.,3784,metal: copper b
+1326,homodimer contacts,3773,homodimer contacts
+1327,Zn binding sites,3764,zn binding sites
+1328,heme binding pocket,3727,heme binding pocket
+1329,MOD_RES: Pyruvic acid (Cys).,3707,mod_res: pyruvic acid (cys)
+1330,Binuclear center (active site),3695,binuclear center (active site)
+1331,putative Mg binding site IVa,3689,mg binding site iva
+1332,putative substrate-binding site,3656,substrate binding site
+1333,mismatch base recognition site,3651,mismatch base recognition site
+1334,Subunit I/VIIc interface,3649,subunit i/viic interface
+1335,METAL: Copper A.,3642,metal: copper a
+1336,putative Fe-S cluster binding site,3635,fe s cluster binding site
+1337,stabilizes COOH of intermediate,3609,stabilizes cooh of intermediate
+1338,hydrolysis of ester intermediate,3609,hydrolysis of ester intermediate
+1339,nucleophile: attacks C2 of substrate to form covalent intermediate,3609,nucleophile: attacks c2 of substrate to form covalent intermediate
+1340,flap region,3582,flap region
+1341,copper binding site,3550,copper binding site
+1342,general acid,3507,general acid
+1343,putative heme binding site,3503,heme binding site
+1344,domain interactions,3482,domain interactions
+1345,E1 interaction site,3476,e1 interaction site
+1346,homohexamer (dimer of homotrimers) interface,3448,homohexamer (dimer of homotrimers) interface
+1347,H+/Cl- coupling transport residue,3413,h+/cl coupling transport residue
+1348,LIPID: Phosphatidylethanolamine amidated glycine.,3398,lipid: phosphatidylethanolamine amidated glycine
+1349,HAD signature motif II,3386,had signature motif ii
+1350,putative adhesion site,3380,adhesion site
+1351,heme-binding site,3376,heme binding site
+1352,heterodimerization interface,3374,heterodimerization interface
+1353,putative xylulose binding site,3330,xylulose binding site
+1354,SITE: Important for channel permeability.,3329,site: important for channel permeability
+1355,allosteric regulatory binding pocket,3326,allosteric regulatory binding pocket
+1356,CROSSLNK: Isoglutamyl cysteine thioester (Cys-Gln).,3319,crosslnk: isoglutamyl cysteine thioester (cys gln)
+1357,phospholipid binding pocket,3310,phospholipid binding pocket
+1358,histone H3 binding site,3309,histone h3 binding site
+1359,EF1 beta interface,3301,ef1 beta interface
+1360,putative Mg binding site IVb,3256,mg binding site ivb
+1361,subunit interactions,3220,subunit interactions
+1362,cardiolipin binding site,3217,cardiolipin binding site
+1363,phosphate binding residues,3201,phosphate binding residues
+1364,SITE: Primary proton acceptor.,3157,site: primary proton acceptor
+1365,SITE: Responsible for spectral tuning.,3157,site: responsible for spectral tuning
+1366,SITE: Primary proton donor.,3157,site: primary proton donor
+1367,Low-spin heme binding site,3131,low spin heme binding site
+1368,SdhC subunit interface,3127,sdhc subunit interface
+1369,METAL: Zinc 1; via carbamate group; catalytic.,3121,metal: zinc 1; via carbamate group; catalytic
+1370,METAL: Zinc 2; via carbamate group; catalytic.,3121,metal: zinc 2; via carbamate group; catalytic
+1371,Oligomer interface,3085,oligomer interface
+1372,dimer interface (closed form),3057,dimer interface (closed form)
+1373,putative [4Fe-4S] binding site,3053,[4fe 4s] binding site
+1374,METAL: Calcium 1; catalytic.,3043,metal: calcium 1; catalytic
+1375,Subunit I/Vb interface,3039,subunit i/vb interface
+1376,peptidase domain interface,3038,peptidase domain interface
+1377,protein synthesis regulator,3011,protein synthesis regulator
+1378,ACT_SITE: For DNase activity of RuvC domain.,3006,act_site: for dnase activity of ruvc domain
+1379,putative binding site residues,3005,binding site residues
+1380,dodecaamer interface,3002,dodecaamer interface
+1381,substrate specificity residue,2990,substrate specificity residue
+1382,putative binding site,2983,binding site
+1383,siderophore binding site,2965,siderophore binding site
+1384,active site triad,2956,active site triad
+1385,putative ligand binding residues,2953,ligand binding residues
+1386,Orients Asp nucleophile,2941,orients asp nucleophile
+1387,stabilizes intermediate,2920,stabilizes intermediate
+1388,malonyl-CoA binding site,2886,malonyl coa binding site
+1389,EF1alpha interface,2878,ef1alpha interface
+1390,putative feedback inhibition sensing region,2877,feedback inhibition sensing region
+1391,NADPH binding site,2861,nadph binding site
+1392,acetyllysine binding site,2852,acetyllysine binding site
+1393,kinase interaction site,2839,kinase interaction site
+1394,putative integrin binding motif,2837,integrin binding motif
+1395,ACT_SITE: For DNA cleavage activity.,2834,act_site: for dna cleavage activity
+1396,GTPase interaction site,2798,gtpase interaction site
+1397,Binds lysine substrate,2783,binds lysine substrate
+1398,oxalacetate binding site,2748,oxalacetate binding site
+1399,ATP binding,2748,atp binding
+1400,METAL: Iron-sulfur 3 (3Fe-4S).,2741,metal: iron sulfur 3 (3fe 4s)
+1401,METAL: Iron-sulfur 2 (4Fe-4S); via pros nitrogen.,2741,metal: iron sulfur 2 (4fe 4s); via pros nitrogen
+1402,Mg2+-binding site,2730,mg2+ binding site
+1403,G bulge,2711,g bulge
+1404,SxDxEG motif,2702,sxdxeg motif
+1405,key conserved lysine K48,2694,key conserved lysine k48
+1406,METAL: Magnesium; via tele nitrogen.,2692,metal: magnesium; via tele nitrogen
+1407,BINDING: Heme 3 (covalent).,2684,binding: heme 3 (covalent)
+1408,BINDING: Glutathione.,2682,binding: glutathione
+1409,REGION: Glutathione binding.,2682,region: glutathione binding
+1410,EF1Balpha binding site,2677,ef1balpha binding site
+1411,Heme binding  pocket,2651,heme binding pocket
+1412,Binds Mg(II) ion,2648,binds mg(ii) ion
+1413,iron coordination sites,2638,iron coordination sites
+1414,EGF-like motif,2567,egf like motif
+1415,calcium binding site 3,2563,calcium binding site 3
+1416,BINDING: Glutathione; via amide nitrogen and carbonyl oxygen.,2510,binding: glutathione; via amide nitrogen and carbonyl oxygen
+1417,MOD_RES: Pyrrolidone carboxylic acid.,2494,mod_res: pyrrolidone carboxylic acid
+1418,General acid/base,2442,general acid/base
+1419,Activates metal binding Thr,2441,activates metal binding thr
+1420,oligomer interface 2,2407,oligomer interface 2
+1421,METAL: Divalent metal cation 2; via carbamate group.,2385,metal: divalent metal cation 2; via carbamate group
+1422,METAL: Divalent metal cation 1; via carbamate group.,2385,metal: divalent metal cation 1; via carbamate group
+1423,putative pore gating glutamate residue,2377,pore gating glutamate residue
+1424,putative histone H3 binding site,2363,histone h3 binding site
+1425,5S rRNA binding site,2360,5s rrna binding site
+1426,ACT_SITE: Nucleophile; methyl group acceptor from phosphotriester.,2350,act_site: nucleophile; methyl group acceptor from phosphotriester
+1427,ACT_SITE: Nucleophile; methyl group acceptor from either O6-methylguanine or O4-methylthymine.,2350,act_site: nucleophile; methyl group acceptor from either o6 methylguanine or o4 methylthymine
+1428,Active Site,2346,active site
+1429,stabilizes substrate phosphoryl group,2337,stabilizes substrate phosphoryl group
+1430,general acid (donates proton to leaving group); Mg2+ ligand,2337,general acid (donates proton to leaving group); mg2+ ligand
+1431,aromatic box (binds sbst),2337,aromatic box (binds sbst)
+1432,SITE: Binds DNA in crRNA-target DNA heteroduplex.,2328,site: binds dna in crrna target dna heteroduplex
+1433,S11 protein interface,2327,s11 protein interface
+1434,SITE: Interacts with free ubiquitin.,2320,site: interacts with free ubiquitin
+1435,18S rRNA binding interface,2307,18s rrna binding interface
+1436,METAL: Calcium; via 3-oxoalanine.,2291,metal: calcium; via 3 oxoalanine
+1437,SUMO-1 interface,2287,sumo 1 interface
+1438,eIF2B interation site,2264,eif2b interation site
+1439,acceptor binding site,2255,acceptor binding site
+1440,substrate binding,2230,substrate binding
+1441,Binuclear center (heme o3/CuB),2216,binuclear center (heme o3/cub)
+1442,Low-spin heme (heme b) binding site,2210,low spin heme (heme b) binding site
+1443,Putative ubiquinol binding site,2196,ubiquinol binding site
+1444,REGION: Important for donor substrate binding.,2193,region: important for donor substrate binding
+1445,EF1A interaction surface,2164,ef1a interaction surface
+1446,apical/protease domain interface,2154,apical/protease domain interface
+1447,oligomer interface 1,2135,oligomer interface 1
+1448,Positions general acid/base Asp,2130,positions general acid/base asp
+1449,linker region,2126,linker region
+1450,putative DNA binding cleft,2118,dna binding cleft
+1451,ACT_SITE: Schiff-base intermediate with substrate; via topaquinone.,2079,act_site: schiff base intermediate with substrate; via topaquinone
+1452,octamer interface,2078,octamer interface
+1453,FEN1-PCNA interface,2059,fen1 pcna interface
+1454,putative ParB Box II,2057,parb box ii
+1455,CysO-CysM interaction site,2055,cyso cysm interaction site
+1456,CysO-BexX interaction site,2054,cyso bexx interaction site
+1457,PriL-PriS interface,2046,pril pris interface
+1458,putative distal heme binding site,2040,distal heme binding site
+1459,REGION: Binds crRNA.,2017,region: binds crrna
+1460,BINDING: Thiamine.,1980,binding: thiamine
+1461,BINDING: Thiamine; via amide nitrogen and carbonyl oxygen.,1980,binding: thiamine; via amide nitrogen and carbonyl oxygen
+1462,starch-binding site 2,1970,starch binding site 2
+1463,putative Skp1 binding site,1963,skp1 binding site
+1464,"positions nucleophilic Asp, coordinates anionic groups of substrate",1956,"positions nucleophilic asp, coordinates anionic groups of substrate"
+1465,"binds phosphate moiety of substrate, activates water",1956,"binds phosphate moiety of substrate, activates water"
+1466,Zn-binding,1951,zn binding
+1467,NADP(H) binding site,1951,nadp(h) binding site
+1468,MOD_RES: Tryptophylquinone.,1948,mod_res: tryptophylquinone
+1469,initiates catalyzed reaction via protonation of substrate,1938,initiates catalyzed reaction via protonation of substrate
+1470,peptide binding pocket,1912,peptide binding pocket
+1471,abstracts alpha proton from l-stereochemistry substrates,1906,abstracts alpha proton from l stereochemistry substrates
+1472,abstracts alpha proton from d-stereochemistry substates,1906,abstracts alpha proton from d stereochemistry substates
+1473,dimer interface (open form),1891,dimer interface (open form)
+1474,allosteric switch controlling residues,1885,allosteric switch controlling residues
+1475,BINDING: NAD or NADP; via carbonyl oxygen.,1882,binding: nad or nadp; via carbonyl oxygen
+1476,putative catalytic site residues,1860,catalytic site residues
+1477,homodecamer interface,1855,homodecamer interface
+1478,GTP-CH-I/GFRP interaction surface,1853,gtp ch i/gfrp interaction surface
+1479,"Mg2+ ligand, binds and orients phosphate group",1843,"mg2+ ligand, binds and orients phosphate group"
+1480,Binds and orients phosphate group,1843,binds and orients phosphate group
+1481,Mg2+ ligand when metal in noncatalytic position,1843,mg2+ ligand when metal in noncatalytic position
+1482,"Orients Asp nucleophile, Binds and orients phosphate group",1843,"orients asp nucleophile, binds and orients phosphate group"
+1483,L- A' interaction site,1832,l a' interaction site
+1484,methionine cluster,1828,methionine cluster
+1485,BINDING: tRNA variable arm.,1828,binding: trna variable arm
+1486,activation loop,1822,activation loop
+1487,L- B interaction site,1821,l b interaction site
+1488,SITE: Interaction with Pro-rich sequence.,1814,site: interaction with pro rich sequence
+1489,BINDING: UTP; via amide nitrogen.,1805,binding: utp; via amide nitrogen
+1490,BINDING: UTP.,1805,binding: utp
+1491,SITE: Important for interaction with phosphotyrosine-binding proteins.,1797,site: important for interaction with phosphotyrosine binding proteins
+1492,mercury binding site,1784,mercury binding site
+1493,beta-alpha-beta stucture motif,1773,beta alpha beta stucture motif
+1494,NAD pyrophosphate binding region,1769,nad pyrophosphate binding region
+1495,SITE: Increases the nucleophilicity of the active site Cys.,1768,site: increases the nucleophilicity of the active site cys
+1496,CROSSLNK: Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin); alternate.,1767,crosslnk: glycyl lysine isopeptide (lys gly) (interchain with g cter in ubiquitin); alternate
+1497,L14 interface,1754,l14 interface
+1498,starch binding site 1,1750,starch binding site 1
+1499,putative hexamer (dimer of trimers) interface,1750,hexamer (dimer of trimers) interface
+1500,starch binding site 2,1747,starch binding site 2
+1501,stabilizes transition state,1740,stabilizes transition state
+1502,acid catalyst for beta elimination reaction,1717,acid catalyst for beta elimination reaction
+1503,METAL: Iron (heme axial ligand); via amino nitrogen.,1715,metal: iron (heme axial ligand); via amino nitrogen
+1504,CAS motifs,1712,cas motifs
+1505,REGION: Binds crRNA alone and in crRNA-target DNA heteroduplex.,1710,region: binds crrna alone and in crrna target dna heteroduplex
+1506,starch-binding site 1,1704,starch binding site 1
+1507,ACT_SITE: For pre-crRNA processing.,1703,act_site: for pre crrna processing
+1508,inhibitor binding sites,1699,inhibitor binding sites
+1509,REGION: Binds crRNA in crRNA-target DNA heteroduplex.,1697,region: binds crrna in crrna target dna heteroduplex
+1510,SITE: Critical for specifying symmetric addition of methyl groups.,1694,site: critical for specifying symmetric addition of methyl groups
+1511,H2A-H2B dimerization interface,1684,h2a h2b dimerization interface
+1512,clamp,1681,clamp
+1513,3' dsDNA binding site,1678,3' dsdna binding site
+1514,Na/Ca binding site,1663,na/ca binding site
+1515,putative primer-binding pocket,1662,primer binding pocket
+1516,homodimerization interface,1655,homodimerization interface
+1517,switch II region,1635,switch ii region
+1518,METAL: Zinc 1; via pros nitrogen.,1632,metal: zinc 1; via pros nitrogen
+1519,putative vWF-collagen binding site,1630,vwf collagen binding site
+1520,BINDING: DNA.,1629,binding: dna
+1521,Subunit III/IV interface,1628,subunit iii/iv interface
+1522,nucleophile: attacks phosphate moiety of substrate to form covalent intermediate; Mg2+ ligand,1626,nucleophile: attacks phosphate moiety of substrate to form covalent intermediate; mg2+ ligand
+1523,NAD- and FAD-binding domain interface,1609,nad and fad binding domain interface
+1524,SITE: Binds crRNA.,1604,site: binds crrna
+1525,CCHH motif,1603,cchh motif
+1526,putative H+/Cl- coupling transport residue,1600,h+/cl coupling transport residue
+1527,binds phosphate moiety of substrate to increase elecrophilicity and facilitate nucleophilic attack,1587,binds phosphate moiety of substrate to increase elecrophilicity and facilitate nucleophilic attack
+1528,Forms salt bridge with nucleophilic Asp; binds phosphate moiety of substrate to increase elecrophilicity and facilitate nucleophilic attack,1587,forms salt bridge with nucleophilic asp; binds phosphate moiety of substrate to increase elecrophilicity and facilitate nucleophilic attack
+1529,putative charged binding surface,1585,charged binding surface
+1530,putative homohexamer interface,1585,homohexamer interface
+1531,L- D heterodimer interface,1584,l d heterodimer interface
+1532,glycerol kinase (GK) interaction site,1568,glycerol kinase (gk) interaction site
+1533,HPr interaction site,1568,hpr interaction site
+1534,putative [2Fe-2S] cluster binding site,1565,[2fe 2s] cluster binding site
+1535,Permutation of conserved domain.,1557,permutation of conserved domain
+1536,PWWP sequence motif,1552,pwwp sequence motif
+1537,glycoprotein Ib (GpIb) binding site,1547,glycoprotein ib (gpib) binding site
+1538,relay loop,1543,relay loop
+1539,CARBOHYD: N-linked (Glc...) arginine.,1538,carbohyd: n linked (glc) arginine
+1540,SITE: Binds Target strand DNA; via amide nitrogen.,1537,site: binds target strand dna; via amide nitrogen
+1541,interswitch region,1529,interswitch region
+1542,zinc cluster 1,1520,zinc cluster 1
+1543,regulatory binding site,1509,regulatory binding site
+1544,REGION: Binds DNA in crRNA-target DNA heteroduplex.,1507,region: binds dna in crrna target dna heteroduplex
+1545,cleft,1496,cleft
+1546,B2 nucleotide binding pocket,1492,b2 nucleotide binding pocket
+1547,putative [Fe4-S4] binding site,1488,[fe4 s4] binding site
+1548,putative ion selectivity filter,1487,ion selectivity filter
+1549,BINDING: L-lysine.,1486,binding: l lysine
+1550,SITE: Binds crRNA alone and in crRNA-target DNA heteroduplex.,1479,site: binds crrna alone and in crrna target dna heteroduplex
+1551,putative translocon docking site,1477,translocon docking site
+1552,NADP ribose binding motif,1472,nadp ribose binding motif
+1553,B1 nucleotide binding pocket,1472,b1 nucleotide binding pocket
+1554,microtubule interaction site,1470,microtubule interaction site
+1555,putative methyl-histone binding site,1466,methyl histone binding site
+1556,putative effector interaction site,1463,effector interaction site
+1557,switch I region,1461,switch i region
+1558,putative RNAase interaction site,1460,rnaase interaction site
+1559,BINDING: tRNA acceptor arm.,1455,binding: trna acceptor arm
+1560,RpoF interaction site,1448,rpof interaction site
+1561,cytochrome domain interface,1445,cytochrome domain interface
+1562,MOTIF: HXXXXD motif.,1444,motif: hxxxxd motif
+1563,drug-binding pocket,1443,drug binding pocket
+1564,phosphotyrosine binding pocket,1426,phosphotyrosine binding pocket
+1565,ubiquitin binding site,1406,ubiquitin binding site
+1566,DNA-binding region,1403,dna binding region
+1567,intra-domain interface,1398,intra domain interface
+1568,pseudo EF-hand loop,1396,pseudo ef hand loop
+1569,TFIIB interaction surface,1395,tfiib interaction surface
+1570,Type 1 (T1) Cu binding site,1388,type 1 (t1) cu binding site
+1571,S25 interface,1383,s25 interface
+1572,DNA interaction surface,1362,dna interaction surface
+1573,CROSSLNK: Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1).,1350,crosslnk: glycyl lysine isopeptide (lys gly) (interchain with g cter in sumo1)
+1574,putative Interface with L7/L12 ribosomal proteins,1348,interface with l7/l12 ribosomal proteins
+1575,Zinc-binding sites,1345,zinc binding sites
+1576,TFIIA interaction surface,1344,tfiia interaction surface
+1577,"general acid: donates proton to leaving group, general base: activates water",1336,"general acid: donates proton to leaving group, general base: activates water"
+1578,SITE: Binds Target strand DNA.,1334,site: binds target strand dna
+1579,mannose binding site,1333,mannose binding site
+1580,GatE binding site,1328,gate binding site
+1581,helicase domain interface,1318,helicase domain interface
+1582,putative heme binding pocket,1310,heme binding pocket
+1583,SITE: Binds DNA protospacer adjacent motif (PAM).,1297,site: binds dna protospacer adjacent motif (pam)
+1584,zinc cluster 2,1295,zinc cluster 2
+1585,"Radical relay, nucleophile",1280,"radical relay, nucleophile"
+1586,Radical relay,1280,radical relay
+1587,putative substrate specificity switching loop,1275,substrate specificity switching loop
+1588,putative serine protease binding site,1271,serine protease binding site
+1589,5' RNA guide strand anchoring site,1267,5' rna guide strand anchoring site
+1590,glycine-rich loop,1264,glycine rich loop
+1591,putative domain interaction site,1262,domain interaction site
+1592,Nucleophile,1261,nucleophile
+1593,Steric,1261,steric
+1594,beta subunit interaction site,1255,beta subunit interaction site
+1595,integrin-collagen binding site,1249,integrin collagen binding site
+1596,catalytic acid,1247,catalytic acid
+1597,Active site cavity,1245,active site cavity
+1598,putative tetramer interface,1242,tetramer interface
+1599,putative intersubunit bridge,1240,intersubunit bridge
+1600,phosphatidylinositol 3-phosphate binding site,1229,phosphatidylinositol 3 phosphate binding site
+1601,putative phosphopeptide binding site,1223,phosphopeptide binding site
+1602,active site/putative ARF binding site,1221,active site/putative arf binding site
+1603,HipB interaction site,1221,hipb interaction site
+1604,putative GDI interaction site,1221,gdi interaction site
+1605,putative SdhD-like interface,1213,sdhd like interface
+1606,VARP interface,1205,varp interface
+1607,GAP interaction site,1203,gap interaction site
+1608,RanGAP2 interaction site,1197,rangap2 interaction site
+1609,BINDING: Nicotinamide ribonucleotide; via amide nitrogen.,1196,binding: nicotinamide ribonucleotide; via amide nitrogen
+1610,BINDING: Diphosphate.,1196,binding: diphosphate
+1611,REGION: Nicotinamide ribonucleotide binding.,1196,region: nicotinamide ribonucleotide binding
+1612,BINDING: Nicotinamide ribonucleotide.,1196,binding: nicotinamide ribonucleotide
+1613,SITE: Binds PAM.,1193,site: binds pam
+1614,Histidine-zinc binding site,1188,histidine zinc binding site
+1615,thiol/disulfide switch,1174,thiol/disulfide switch
+1616,active site aspartates,1171,active site aspartates
+1617,Fe(II) binding site,1167,fe(ii) binding site
+1618,conserved polymerase motif B,1163,conserved polymerase motif b
+1619,PB1 interaction surface,1160,pb1 interaction surface
+1620,putative actin binding site,1154,actin binding site
+1621,putative hydrophobic binding surface,1137,hydrophobic binding surface
+1622,PB1 interaction site,1123,pb1 interaction site
+1623,conserved polymerase motif C,1115,conserved polymerase motif c
+1624,conserved polymerase motif A,1111,conserved polymerase motif a
+1625,TnsC binding interface,1089,tnsc binding interface
+1626,BINDING: Cyclosporin A.,1070,binding: cyclosporin a
+1627,REGION: Cyclosporin A binding.,1070,region: cyclosporin a binding
+1628,purine-binding loop,1061,purine binding loop
+1629,SITE: Binds calcium which modulates its enzyme activity.,1051,site: binds calcium which modulates its enzyme activity
+1630,alpha subunit interaction site,1047,alpha subunit interaction site
+1631,putative lithium-binding site,1042,lithium binding site
+1632,Rrp4-like subunit interface,1042,rrp4 like subunit interface
+1633,putative lipid binding site,1040,lipid binding site
+1634,Ca-Po4 binding site,1033,ca po4 binding site
+1635,SH1 helix,1026,sh1 helix
+1636,ubiquitination site,1023,ubiquitination site
+1637,VapBC-5 complex,1005,vapbc 5 complex
+1638,reactive site,1003,reactive site

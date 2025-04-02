@@ -1,0 +1,7 @@
+git init
+git lfs install 
+git lfs track "*.pth"
+git lfs track "*.safetensors"
+git lfs track "*.pickle"
+git  config --global user.name "jufanbo"
+git config --global user.email "2123418650@qq.com"
